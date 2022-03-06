@@ -4,23 +4,19 @@
     <meta charset="utf-8">
     <title>コーヒー豆推薦</title>
 </head>
-
 <body>
 <h2>My favorite coffee</h2>
 
-<form action="http://127.0.0.1:5000/method "method="POST">
-  <label for="fname">coffee bean:</label><br>
-  <input type="text" id="fname" name="fname" value="arabica"><br>
-  <label for="fname">area:</label><br>
-  <input type="text" id="lname" name="lname" value="Japan"><br><br>
+<form action="/index" method="POST">
   <label for="fname">Aroma:</label>
-    <select name="Aroma"><
-      <option value = 5>強い</option>
-      <option value = 4>少し強い</option>
-      <option value = 3>普通</option>
-      <option value = 2>少し弱い</option>
-      <option value = 1>弱い</option>
+    <select name="Aroma">
+        <option value = 5>強い</option>
+        <option value = 4>少し強い</option>
+        <option value = 3>普通</option>
+        <option value = 2>少し弱い</option>
+        <option value = 1>弱い</option>
     </select>
+
   <label for="fname">Flavor:</label>
     <select name="Flavor">
       <option value = 5>強い</option>
@@ -30,7 +26,7 @@
       <option value = 1>弱い</option>
     </select>
   <label for="fname">Aftertaste:</label>
-    <select name="Aftertaste">
+    <select name="Aftertaste" >
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
@@ -53,11 +49,18 @@
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select>
-  <input type="submit" value="Submit">
+  <input type="submit" value="豆を探す">
   </select>
 </form> 
 
-<script src="main.js"></script>
+<!-- <form action="/index" method="POST">
+  <input type="text" name="name" placeholder="Enter name">
+  <input type="submit" value="Submit">
+</form> -->
+
+{% for word in okyo %}
+<p>{{word}}</p>
+{% endfor %}
 
 </body>
 </html>

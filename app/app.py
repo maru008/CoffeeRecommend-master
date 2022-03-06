@@ -3,19 +3,25 @@ from flask import Flask, request, render_template
 app= Flask(__name__)
 
 @app.route('/')
+@app.route("/index")
 
-def hello():
-    return 'Hello, World!'
+def index():
+    return render_template("index.html")
 
-@app.route('/method', methods=['GET', 'POST'])
-def method():
-    if request.method == 'GET':
-        return "GET으로 전달"
-    else:
-        return "POST로 전달"
-if __name__ == '__main__':
-    app.run(debug=True)
+
+@app.route("/index",methods=["post"])
+def post():
+    Aroma = request.form.get("Aroma")
+    Flavor = request.form.get("Flavor")
+    Aftertaste = request.form.get("Aftertaste")
+    Acidity = request.form.get("Acidity")
+    Sweetness = request.form.get("Sweetness")
     
-@app.route('/hello')
-def hellohtml():
-    return render_template("hello.html")
+    res_datas = [Aroma,Flavor,Aftertaste,Acidity,Sweetness]
+    
+    return render_template("index.html", okyo=res_datas)
+
+
+#おまじない
+if __name__ == "__main__":
+    app.run(debug=True)
