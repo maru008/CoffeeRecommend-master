@@ -1,0 +1,1341 @@
+,Species,Country.of.Origin,Aroma,Flavor,Aftertaste,Acidity,Sweetness
+1,Arabica,Ethiopia,8.67,8.83,8.67,8.75,10
+2,Arabica,Ethiopia,8.75,8.67,8.5,8.58,10
+3,Arabica,Guatemala,8.42,8.5,8.42,8.42,10
+4,Arabica,Ethiopia,8.17,8.58,8.42,8.42,10
+5,Arabica,Ethiopia,8.25,8.5,8.25,8.5,10
+6,Arabica,Brazil,8.58,8.42,8.42,8.5,10
+7,Arabica,Peru,8.42,8.5,8.33,8.5,10
+8,Arabica,Ethiopia,8.25,8.33,8.5,8.42,9.33
+9,Arabica,Ethiopia,8.67,8.67,8.58,8.42,9.33
+10,Arabica,Ethiopia,8.08,8.58,8.5,8.5,10
+11,Arabica,Ethiopia,8.17,8.67,8.25,8.5,10
+12,Arabica,United States,8.25,8.42,8.17,8.33,10
+13,Arabica,United States,8.08,8.67,8.33,8.42,10
+14,Arabica,United States (Hawaii),8.33,8.42,8.08,8.25,10
+15,Arabica,Ethiopia,8.25,8.33,8.5,8.25,9.33
+16,Arabica,United States,8,8.5,8.58,8.17,10
+17,Arabica,Indonesia,8.33,8.25,7.83,7.75,10
+18,Arabica,Ethiopia,8.17,8.33,8.25,8.33,9.33
+19,Arabica,China,8.42,8.25,8.08,8.17,10
+20,Arabica,Ethiopia,8.17,8.17,8,8.17,10
+21,Arabica,United States,8,8.25,8.08,8.5,10
+22,Arabica,Costa Rica,8.08,8.25,8,8.17,10
+23,Arabica,Mexico,8.17,8.25,8.17,8,10
+24,Arabica,United States,8.25,8.33,8.17,8.17,10
+25,Arabica,Ethiopia,8.42,8.17,7.92,8.17,10
+26,Arabica,Brazil,8.5,8.5,8,8,10
+27,Arabica,Ethiopia,7.83,8.25,8.08,8.17,10
+28,Arabica,Uganda,8.42,8.17,8.17,8.17,10
+29,Arabica,Honduras,8.17,8.08,8.08,8,10
+30,Arabica,Taiwan,8,8,8,8.25,10
+31,Arabica,Nicaragua,7.92,8.25,8,8.33,10
+32,Arabica,"Tanzania, United Republic Of",8.42,8.17,8.17,8,10
+33,Arabica,Brazil,8.5,8.17,8,7.75,10
+34,Arabica,Costa Rica,8.17,7.83,8,8.08,10
+35,Arabica,Ethiopia,8,8.08,7.92,8,10
+36,Arabica,Kenya,8.08,8,8,8.25,10
+37,Arabica,United States (Hawaii),8.08,8.17,8,7.92,10
+38,Arabica,United States (Hawaii),8.25,8.42,8.08,7.75,10
+39,Arabica,Ethiopia,7.92,7.75,8.08,8.08,10
+40,Arabica,United States,7.67,8.17,8,8,10
+41,Arabica,Thailand,7.83,8.33,7.83,8.25,10
+42,Arabica,Brazil,8.17,7.92,7.92,7.75,10
+43,Arabica,Brazil,8.42,7.92,8,7.75,10
+44,Arabica,Taiwan,7.75,8.08,7.75,7.83,86.08
+45,Arabica,Kenya,8.08,8.08,8,8,10
+46,Arabica,Brazil,8.33,8,8,8,10
+47,Arabica,Uganda,8.08,8.08,7.83,7.92,10
+48,Arabica,Colombia,7.75,7.92,7.83,8.08,10
+49,Arabica,Kenya,7.92,8.17,7.83,8.5,10
+50,Arabica,Uganda,8.25,8,7.83,8.08,10
+51,Arabica,Ethiopia,7.75,8.08,8,8.25,10
+52,Arabica,United States (Hawaii),8.33,8.17,7.75,8,10
+53,Arabica,Guatemala,7.92,8.08,7.92,8.08,10
+54,Arabica,Uganda,8.17,8.17,7.92,8.08,10
+55,Arabica,Colombia,8,8,8,8.17,10
+56,Arabica,Panama,8,8,7.92,8.08,10
+57,Arabica,Ethiopia,7.83,8.08,7.92,8.08,10
+58,Arabica,Guatemala,7.83,8,8,8.17,10
+59,Arabica,Guatemala,8,8,7.83,8.33,10
+60,Arabica,Ethiopia,7.83,8,7.83,8.17,10
+61,Arabica,Peru,8,8,8,8.08,10
+62,Arabica,Papua New Guinea,8.33,8.42,7.83,8.33,10
+63,Arabica,El Salvador,7.92,8.17,8,7.92,10
+64,Arabica,El Salvador,7.83,8,8,7.75,10
+65,Arabica,United States (Hawaii),7.83,8,7.92,7.75,10
+66,Arabica,Panama,8,7.75,7.83,7.83,10
+67,Arabica,Kenya,7.92,7.92,7.83,8.08,10
+68,Arabica,Ethiopia,7.83,8,7.83,7.92,10
+69,Arabica,Uganda,8.33,7.92,7.67,7.92,10
+70,Arabica,Guatemala,8,7.83,7.67,8.33,10
+71,Arabica,Ethiopia,7.75,7.83,7.83,8.17,10
+72,Arabica,Uganda,8.08,8,7.83,7.67,10
+73,Arabica,United States (Hawaii),7.92,7.92,7.75,7.92,10
+74,Arabica,Brazil,8,8,8,7.67,10
+75,Arabica,El Salvador,8.08,7.83,7.83,8.08,10
+76,Arabica,China,8,8,8,7.83,10
+77,Arabica,Guatemala,7.83,7.75,7.83,7.67,10
+78,Arabica,Costa Rica,7.92,8.08,8,7.92,9.33
+79,Arabica,Costa Rica,8,7.58,7.58,7.67,10
+80,Arabica,Kenya,7.83,8.08,7.75,8.08,10
+81,Arabica,Kenya,8,7.92,7.92,8.08,10
+82,Arabica,Ethiopia,7.83,7.83,7.92,8.08,10
+83,Arabica,Ethiopia,7.92,7.83,7.75,8.33,10
+84,Arabica,Guatemala,8,7.92,7.75,8,10
+85,Arabica,Colombia,8.17,7.92,7.83,8,10
+86,Arabica,Colombia,7.58,8.08,7.92,7.83,10
+87,Arabica,Indonesia,7.75,7.83,7.67,8,10
+88,Arabica,Guatemala,8.25,8,7.67,7.92,10
+89,Arabica,Ethiopia,7.75,8,7.58,8,10
+90,Arabica,Colombia,8.17,7.83,7.58,8.08,10
+91,Arabica,Ethiopia,8.42,8,7.42,8,10
+92,Arabica,United States (Hawaii),7.58,7.83,7.83,7.92,10
+93,Arabica,Colombia,7.83,8,7.75,7.75,10
+94,Arabica,United States (Hawaii),8.08,8.17,7.92,8,10
+95,Arabica,Ethiopia,7.67,8,7.83,8,10
+96,Arabica,United States (Hawaii),7.5,7.92,8.25,7.83,10
+97,Arabica,Uganda,8.17,7.92,7.75,7.75,10
+98,Arabica,Colombia,8,7.92,7.75,7.92,10
+99,Arabica,Costa Rica,7.83,8,7.58,7.92,10
+100,Arabica,Mexico,7.83,8,7.83,7.75,10
+101,Arabica,Kenya,8.17,7.83,7.92,7.75,10
+102,Arabica,Kenya,7.75,7.83,7.75,8.08,10
+103,Arabica,Brazil,8,8,7.83,7.83,10
+104,Arabica,Mexico,7.92,8.17,7.75,8.08,10
+105,Arabica,United States (Hawaii),7.75,7.92,7.75,7.75,10
+106,Arabica,Guatemala,7.83,8.08,7.67,8,10
+107,Arabica,Colombia,7.92,7.92,7.67,7.83,10
+108,Arabica,Colombia,7.92,7.83,7.75,7.83,10
+109,Arabica,Taiwan,7.67,7.83,8,7.58,10
+110,Arabica,"Tanzania, United Republic Of",8,7.83,7.83,7.92,10
+111,Arabica,Colombia,7.75,7.92,7.83,7.75,10
+112,Arabica,Mexico,7.75,8,7.75,7.83,10
+113,Arabica,Brazil,8,7.92,7.75,7.75,10
+114,Arabica,Brazil,8,8,7.75,8,10
+115,Arabica,Kenya,8,7.67,7.83,8.17,10
+116,Arabica,Taiwan,7.83,7.83,7.83,7.83,84.83
+117,Arabica,Uganda,7.75,7.92,7.67,7.67,10
+118,Arabica,United States (Hawaii),7.67,7.75,7.75,7.75,10
+119,Arabica,Ethiopia,7.75,7.92,7.83,7.92,10
+120,Arabica,Ethiopia,7.42,7.92,7.92,8,10
+121,Arabica,Thailand,7.75,7.75,7.75,7.75,10
+122,Arabica,Kenya,7.92,7.83,7.58,7.92,10
+123,Arabica,Honduras,7.83,7.75,8,7.67,10
+124,Arabica,El Salvador,7.75,8,8,8.33,9.33
+125,Arabica,Nicaragua,7.83,7.58,7.58,7.83,10
+126,Arabica,El Salvador,7.83,7.83,7.5,8,10
+127,Arabica,Indonesia,7.92,7.83,7.75,7.75,10
+128,Arabica,Japan,7.75,7.75,7.75,7.42,10
+129,Arabica,Costa Rica,8.08,7.75,7.67,7.83,10
+130,Arabica,Guatemala,7.75,7.83,7.58,8,10
+131,Arabica,Costa Rica,8.17,8,7.83,7.17,10
+132,Arabica,Ethiopia,8.08,7.83,7.75,7.83,10
+133,Arabica,Costa Rica,7.67,7.58,7.75,7.75,10
+134,Arabica,Costa Rica,8,7.58,7.83,7.75,10
+135,Arabica,Costa Rica,8.08,7.83,7.75,7.83,9.33
+136,Arabica,Taiwan,7.75,7.75,7.75,7.75,84.67
+137,Arabica,Colombia,7.75,7.83,7.75,7.83,10
+138,Arabica,Kenya,7.75,7.92,7.83,8,10
+139,Arabica,Guatemala,8,7.83,7.67,7.83,10
+140,Arabica,Guatemala,7.67,7.83,7.67,8,10
+141,Arabica,Mexico,7.83,7.58,7.67,7.92,10
+142,Arabica,Uganda,7.92,7.83,7.75,7.92,10
+143,Arabica,Peru,7.67,7.83,7.75,7.75,10
+144,Arabica,Ethiopia,7.42,7.75,7.75,8,10
+145,Arabica,Kenya,7.92,7.75,7.83,7.75,10
+146,Arabica,Colombia,7.83,7.67,7.58,7.92,10
+147,Arabica,Colombia,7.92,7.83,7.58,8,10
+148,Arabica,Kenya,7.83,7.83,7.83,7.75,10
+149,Arabica,Guatemala,7.75,7.83,7.67,7.92,10
+150,Arabica,Guatemala,8,7.92,7.67,7.58,10
+151,Arabica,Colombia,7.67,7.67,7.58,7.75,10
+152,Arabica,Colombia,7.75,7.75,7.83,7.75,10
+153,Arabica,Kenya,7.75,7.75,7.75,8.08,10
+154,Arabica,Colombia,7.67,7.83,7.83,8,10
+155,Arabica,Costa Rica,7.75,7.83,7.75,8,10
+156,Arabica,Colombia,7.42,7.67,7.75,7.75,10
+157,Arabica,Brazil,8,8,7.75,7.75,10
+158,Arabica,Brazil,8.5,8,7.5,7.75,10
+159,Arabica,Costa Rica,7.92,7.67,7.92,7.75,10
+160,Arabica,Uganda,7.92,7.75,7.67,7.75,10
+161,Arabica,China,7.75,7.92,7.67,7.83,10
+162,Arabica,Costa Rica,7.92,7.83,7.83,7.83,10
+163,Arabica,Colombia,8.08,7.67,7.83,7.83,10
+164,Arabica,China,7.67,8,7.75,7.83,10
+165,Arabica,Guatemala,8.17,7.83,7.67,7.83,10
+166,Arabica,Kenya,7.92,7.83,7.67,8,10
+167,Arabica,Mexico,8,7.92,7.42,8.08,10
+168,Arabica,Mexico,7.92,7.83,7.75,7.75,10
+169,Arabica,Guatemala,7.67,8,7.67,8,10
+170,Arabica,Brazil,7.81,7.81,7.88,7.75,10
+171,Arabica,Brazil,8.17,7.67,7.75,7.75,10
+172,Arabica,Costa Rica,7.58,7.83,7.83,8,10
+173,Arabica,Indonesia,7.67,7.67,7.83,7.58,10
+174,Arabica,Colombia,7.92,7.83,7.75,7.67,10
+175,Arabica,Colombia,7.92,7.75,7.67,7.92,10
+176,Arabica,Taiwan,7.83,7.83,7.75,8,10
+177,Arabica,United States (Hawaii),7.92,7.92,7.5,7.83,10
+178,Arabica,Mexico,7.75,7.92,7.75,7.67,10
+179,Arabica,Ethiopia,7.5,7.75,7.83,7.92,10
+180,Arabica,Kenya,7.33,7.58,7.83,7.75,10
+181,Arabica,Honduras,7.92,8,7.75,7.67,10
+182,Arabica,Colombia,7.58,7.75,7.5,7.83,10
+183,Arabica,Honduras,7.58,7.92,7.58,7.75,10
+184,Arabica,Colombia,7.67,7.67,7.75,7.83,10
+185,Arabica,Colombia,7.75,7.67,8,7.67,10
+186,Arabica,Colombia,7.75,7.58,7.33,7.83,10
+187,Arabica,Mexico,8,7.75,7.75,7.83,10
+188,Arabica,Brazil,8.17,8,7.5,7.75,10
+189,Arabica,Brazil,8,8,7.5,7.5,10
+190,Arabica,Ethiopia,7.75,7.75,7.92,7.75,10
+191,Arabica,Guatemala,7.5,7.67,7.75,7.67,10
+192,Arabica,Taiwan,7.92,7.75,7.75,7.67,10
+193,Arabica,Thailand,7.83,7.75,7.75,7.42,10
+194,Arabica,Colombia,7.83,7.58,7.75,7.58,10
+195,Arabica,Guatemala,7.75,7.75,7.58,7.92,10
+196,Arabica,Guatemala,7.75,7.92,7.5,8.08,10
+197,Arabica,China,7.83,7.83,7.58,7.75,10
+198,Arabica,Colombia,7.67,7.67,7.75,7.75,10
+199,Arabica,Colombia,7.83,7.67,7.75,7.58,10
+200,Arabica,Colombia,7.83,7.75,7.83,7.58,10
+201,Arabica,Colombia,7.42,7.67,7.83,7.75,10
+202,Arabica,"Tanzania, United Republic Of",7.83,7.67,7.75,7.83,10
+203,Arabica,"Tanzania, United Republic Of",7.83,7.75,7.75,7.75,10
+204,Arabica,Guatemala,7.83,7.83,7.5,7.92,10
+205,Arabica,Colombia,7.58,7.5,7.75,7.83,10
+206,Arabica,United States (Hawaii),7.33,7.92,7.92,7.92,9.33
+207,Arabica,Mexico,7.83,7.92,7.67,7.83,10
+208,Arabica,Mexico,7.83,7.83,7.75,7.67,10
+209,Arabica,Mexico,7.83,7.92,7.67,7.75,10
+210,Arabica,Uganda,8.17,7.75,7.58,7.67,10
+211,Arabica,Guatemala,7.75,7.83,7.58,7.83,10
+212,Arabica,Colombia,7.83,7.75,7.58,7.67,10
+213,Arabica,Costa Rica,7.92,7.75,7.67,7.67,10
+214,Arabica,Guatemala,7.75,7.75,7.58,8,10
+215,Arabica,Guatemala,7.75,7.92,7.58,7.92,10
+216,Arabica,Guatemala,7.58,7.83,7.58,7.83,10
+217,Arabica,Colombia,8,7.5,7.5,7.67,10
+218,Arabica,Nicaragua,7.67,7.83,7.83,7.5,10
+219,Arabica,Brazil,7.67,7.75,7.75,7.67,10
+220,Arabica,Costa Rica,7.67,7.75,7.67,7.75,10
+221,Arabica,Ethiopia,7.5,7.92,7.58,7.83,10
+222,Arabica,"Tanzania, United Republic Of",7.92,7.75,7.75,7.75,10
+223,Arabica,Colombia,7.67,7.5,7.67,7.42,10
+224,Arabica,Guatemala,7.67,7.75,7.67,7.75,10
+225,Arabica,Kenya,7.58,7.75,7.75,7.75,10
+226,Arabica,Brazil,7.58,7.83,7.75,7.67,10
+227,Arabica,Guatemala,7.92,7.75,7.67,7.67,10
+228,Arabica,El Salvador,8.42,8.08,7.5,7.17,10
+229,Arabica,Colombia,7.75,7.75,7.75,7.75,10
+230,Arabica,Guatemala,7.83,7.5,7.5,8,10
+231,Arabica,Uganda,7.83,7.75,7.5,7.83,10
+232,Arabica,Indonesia,7.81,7.88,7.56,7.75,10
+233,Arabica,Colombia,7.83,7.5,7.42,7.5,10
+234,Arabica,Taiwan,7.58,7.67,7.67,7.67,10
+235,Arabica,Guatemala,8,7.75,7.5,7.58,10
+236,Arabica,Colombia,7.92,7.75,7.67,7.75,10
+237,Arabica,Guatemala,7.58,7.75,7.67,8,10
+238,Arabica,United States (Hawaii),7.83,7.75,7.83,7.83,10
+239,Arabica,Mexico,7.67,7.75,7.67,7.75,10
+240,Arabica,Ethiopia,7.92,7.92,7.83,8,8.67
+241,Arabica,Costa Rica,7.58,7.75,7.67,7.75,10
+242,Arabica,Ethiopia,7.83,7.75,7.67,7.75,10
+243,Arabica,Honduras,7.42,7.83,7.75,7.92,10
+244,Arabica,Guatemala,7.67,7.83,7.58,7.92,10
+245,Arabica,Colombia,7.67,7.67,7.83,7.58,10
+246,Arabica,Guatemala,7.92,7.67,7.42,7.92,10
+247,Arabica,Guatemala,7.75,7.83,7.5,7.83,10
+248,Arabica,Colombia,7.67,7.75,7.67,7.67,10
+249,Arabica,Colombia,7.58,7.42,7.75,7.92,10
+250,Arabica,Colombia,7.67,7.67,7.5,7.5,10
+251,Arabica,Ethiopia,7.75,7.75,7.5,7.58,10
+252,Arabica,Brazil,7.58,7.83,7.67,7.25,10
+253,Arabica,Colombia,7.67,7.83,7.67,7.75,10
+254,Arabica,Kenya,7.67,7.83,7.5,7.75,10
+255,Arabica,Thailand,7.92,8.17,8.17,8.42,9.33
+256,Arabica,Kenya,7.67,7.75,7.67,7.75,10
+257,Arabica,Uganda,7.92,7.75,7.58,7.67,10
+258,Arabica,Thailand,7.58,7.75,7.58,7.75,10
+259,Arabica,Brazil,7.5,7.75,7.58,7.5,10
+260,Arabica,Mexico,7.83,7.83,7.58,7.92,10
+261,Arabica,Thailand,7.67,7.75,7.5,7.67,10
+262,Arabica,Brazil,7.58,7.67,7.67,7.75,10
+263,Arabica,Taiwan,7.83,7.75,7.83,7.75,10
+264,Arabica,Colombia,7.75,7.67,7.5,7.75,10
+265,Arabica,Colombia,7.75,7.58,7.5,7.83,10
+266,Arabica,Taiwan,7.58,7.75,7.75,7.67,83.92
+267,Arabica,Colombia,7.92,7.67,7.5,7.83,10
+268,Arabica,Colombia,7.83,7.75,7.58,7.58,10
+269,Arabica,Colombia,7.75,7.58,7.67,7.83,10
+270,Arabica,Taiwan,7.92,7.92,7.67,7.33,83.92
+271,Arabica,Colombia,7.67,7.83,7.67,7.75,10
+272,Arabica,Mexico,7.67,7.75,7.58,7.67,10
+273,Arabica,Mexico,7.5,7.67,7.58,7.83,10
+274,Arabica,Mexico,7.75,7.92,7.83,7.92,10
+275,Arabica,Colombia,7.92,7.58,7.5,7.83,10
+276,Arabica,Colombia,7.83,7.67,7.5,7.75,10
+277,Arabica,Costa Rica,7.67,7.67,7.75,7.67,10
+278,Arabica,Guatemala,7.75,7.75,7.5,7.75,10
+279,Arabica,Taiwan,7.75,7.67,7.5,7.75,10
+280,Arabica,Brazil,7.25,7.58,7.42,8,10
+281,Arabica,Taiwan,7.67,7.75,7.67,7.75,10
+282,Arabica,Ethiopia,7.75,7.75,7.67,7.67,10
+283,Arabica,Brazil,7.67,7.67,7.58,7.5,9.33
+284,Arabica,Costa Rica,7.83,7.42,7.5,7.83,10
+285,Arabica,Guatemala,7.58,7.83,7.33,8,10
+286,Arabica,Brazil,7.92,7.5,7.33,7.67,10
+287,Arabica,Ecuador,7.5,7.67,7.58,7.75,10
+288,Arabica,Colombia,7.67,7.58,7.58,7.83,10
+289,Arabica,Guatemala,7.5,7.83,7.5,7.83,10
+290,Arabica,Mexico,7.67,8,7.67,7.42,10
+291,Arabica,Mexico,7.67,7.58,7.5,7.75,10
+292,Arabica,Brazil,7.83,7.83,7.58,7.67,10
+293,Arabica,Thailand,7.75,7.75,7.58,8,10
+294,Arabica,Thailand,7.5,7.83,7.58,7.58,10
+295,Arabica,Ethiopia,7.58,7.83,7.58,8,10
+296,Arabica,Kenya,7.75,7.58,7.5,7.58,10
+297,Arabica,Brazil,7.67,7.67,7.58,7.75,10
+298,Arabica,Colombia,7.83,7.83,7.58,7.58,10
+299,Arabica,Taiwan,7.67,7.67,7.58,7.58,10
+300,Arabica,Colombia,7.92,7.75,7.5,7.67,10
+301,Arabica,China,7.83,7.75,7.67,7.5,10
+302,Arabica,Colombia,7.75,7.67,7.5,7.67,10
+303,Arabica,Uganda,8,7.92,7.58,7.75,10
+304,Arabica,United States (Puerto Rico),7.83,7.83,7.83,7.67,10
+305,Arabica,Colombia,7.67,7.67,7.67,7.92,10
+306,Arabica,Colombia,7.67,7.42,7.42,7.42,10
+307,Arabica,Colombia,7.58,7.67,7.75,7.67,10
+308,Arabica,Colombia,7.75,7.67,7.75,7.58,10
+309,Arabica,United States (Hawaii),7.25,7.42,7.67,7.58,10
+310,Arabica,Mexico,7.83,7.58,7.58,7.5,10
+311,Arabica,Guatemala,7.67,7.58,7.58,7.67,10
+312,Arabica,Colombia,7.83,7.83,7.58,7.33,10
+313,Arabica,Colombia,7.75,7.67,7.25,7.25,10
+314,Arabica,United States (Hawaii),7.83,7.67,7.75,7.67,10
+315,Arabica,Brazil,7.67,7.83,7.5,7.67,10
+316,Arabica,Kenya,8.08,7.67,7.67,7.58,10
+317,Arabica,Honduras,7.5,7.5,7.67,7.67,10
+318,Arabica,Nicaragua,7.67,7.75,7.67,7.67,10
+319,Arabica,Brazil,7.58,7.75,7.58,7.75,10
+320,Arabica,Taiwan,7.5,7.67,7.33,7.92,10
+321,Arabica,Costa Rica,7.33,7.67,7.67,7.5,10
+322,Arabica,Thailand,7.5,7.75,7.58,7.83,10
+323,Arabica,Colombia,7.5,7.75,7.5,7.75,10
+324,Arabica,Guatemala,8,7.5,7.33,8,10
+325,Arabica,Colombia,7.83,7.75,7.67,7.58,10
+326,Arabica,Colombia,7.67,7.67,7.67,7.67,10
+327,Arabica,Guatemala,7.67,7.67,7.42,7.67,10
+328,Arabica,Guatemala,7.83,7.67,7.33,7.67,10
+329,Arabica,Colombia,7.75,7.75,7.58,7.83,10
+330,Arabica,Guatemala,8.17,8.17,7.83,7.67,9.33
+331,Arabica,Guatemala,7.67,8.17,7.5,7.42,10
+332,Arabica,Mexico,7.67,7.5,7.5,7.33,10
+333,Arabica,Indonesia,8.17,7.67,7.58,7.58,10
+334,Arabica,Guatemala,7.67,7.5,7.33,8,10
+335,Arabica,United States (Hawaii),7.75,8,7.92,8.08,9.33
+336,Arabica,Brazil,7.58,7.67,7.58,7.58,10
+337,Arabica,Guatemala,7.75,7.75,7.5,7.83,10
+338,Arabica,Colombia,7.75,7.75,7.58,7.58,10
+339,Arabica,China,7.67,7.58,7.58,7.58,10
+340,Arabica,Colombia,7.67,7.75,7.58,7.67,10
+341,Arabica,Mexico,7.75,7.75,7.58,7.58,10
+342,Arabica,Ethiopia,7.75,7.67,7.58,7.67,10
+343,Arabica,Uganda,7.67,7.67,7.42,7.75,10
+344,Arabica,Colombia,7.67,7.58,7.67,7.67,10
+345,Arabica,Colombia,7.67,7.58,7.67,7.58,10
+346,Arabica,Colombia,7.75,7.58,7.5,7.58,10
+347,Arabica,Taiwan,7.75,7.75,7.5,7.58,83.58
+348,Arabica,Colombia,7.67,7.67,7.58,7.67,10
+349,Arabica,Mexico,7.83,7.67,7.58,7.58,10
+350,Arabica,Colombia,7.67,7.58,7.58,7.58,10
+351,Arabica,Brazil,7.83,7.75,7.5,7.75,10
+352,Arabica,Colombia,7.75,7.58,7.58,7.75,10
+353,Arabica,Taiwan,7.58,7.17,7.17,7,10
+354,Arabica,Costa Rica,7.92,7.42,7.5,7.67,10
+355,Arabica,Colombia,7.75,7.58,7.58,7.5,10
+356,Arabica,Guatemala,7.67,7.75,7.5,7.83,10
+357,Arabica,Colombia,7.58,7.58,7.58,7.58,10
+358,Arabica,"Tanzania, United Republic Of",7.75,7.67,7.58,7.67,10
+359,Arabica,Indonesia,7.25,7.67,7.58,7.92,10
+360,Arabica,Ethiopia,7.67,7.75,7.5,7.58,10
+361,Arabica,Colombia,7.67,7.42,7.67,7.83,10
+362,Arabica,Colombia,8,7.58,7.25,7.58,10
+363,Arabica,Guatemala,7.58,7.75,7.5,7.83,10
+364,Arabica,Colombia,7.75,7.58,7.33,7.5,10
+365,Arabica,Honduras,7.67,7.5,7.67,7.5,10
+366,Arabica,Colombia,7.58,7.75,7.42,7.67,10
+367,Arabica,Colombia,7.58,7.67,7.58,7.75,10
+368,Arabica,Mexico,7.83,7.58,7.25,7.5,10
+369,Arabica,Mexico,7.67,7.75,7.67,7.75,10
+370,Arabica,Mexico,7.75,7.67,7.67,7.75,10
+371,Arabica,Guatemala,7.83,7.5,7.5,8,10
+372,Arabica,Colombia,7.67,7.58,7.58,7.67,10
+373,Arabica,Guatemala,7.5,7.5,7.75,7.5,10
+374,Arabica,United States (Hawaii),7.5,7.67,7.58,7.92,10
+375,Arabica,Indonesia,7.83,7.58,7.58,7.58,10
+376,Arabica,Colombia,7.5,7.58,7.58,7.5,10
+377,Arabica,Guatemala,7.67,7.75,7.5,7.58,10
+378,Arabica,Colombia,7.67,7.67,7.5,7.67,10
+379,Arabica,Costa Rica,7.58,7.5,7.42,7.92,10
+380,Arabica,Taiwan,7,7.08,7,7,83.42
+381,Arabica,Uganda,7.58,7.75,7.33,7.75,10
+382,Arabica,Thailand,7.5,7.58,7.75,7.5,10
+383,Arabica,El Salvador,7.58,7.5,7.75,7.58,10
+384,Arabica,Colombia,7.58,7.67,7.58,7.67,10
+385,Arabica,Brazil,7.33,7.83,7.75,7.5,10
+386,Arabica,"Tanzania, United Republic Of",7.75,7.67,7.58,7.67,10
+387,Arabica,Colombia,7.58,7.58,7.25,7.75,10
+388,Arabica,Guatemala,7.75,7.83,7.33,7.83,10
+389,Arabica,Guatemala,7.67,7.75,7.5,7.83,10
+390,Arabica,Guatemala,7.67,7.5,7.75,7.42,10
+391,Arabica,United States (Hawaii),7.42,7.75,7.67,7.58,10
+392,Arabica,Colombia,7.5,7.75,7.58,7.5,10
+393,Arabica,Colombia,7.58,7.58,7.58,7.67,10
+394,Arabica,United States (Hawaii),7.5,7.92,7.42,7.67,10
+395,Arabica,Thailand,7.58,7.25,7.5,7.92,10
+396,Arabica,Mexico,7.25,7.88,7.38,7.63,10
+397,Arabica,Colombia,7.75,7.5,7.75,7.58,10
+398,Arabica,Colombia,7.67,7.58,7.58,7.42,10
+399,Arabica,Colombia,7.83,7.58,7.58,7.58,10
+400,Arabica,Brazil,7.5,7.83,7.33,7.58,10
+401,Arabica,Mexico,7.75,7.75,7.5,7.67,10
+402,Arabica,Colombia,7.67,7.75,7.42,7.83,10
+403,Arabica,"Tanzania, United Republic Of",7.75,7.58,7.67,7.58,10
+404,Arabica,Mexico,7.67,7.67,7.58,7.67,10
+405,Arabica,Costa Rica,7.67,7.67,7.42,7.67,10
+406,Arabica,United States (Hawaii),7.83,7.58,7.83,7.67,9.33
+407,Arabica,Costa Rica,7.5,7.67,7.67,7.5,10
+408,Arabica,Peru,7.83,7.75,7.58,7.83,10
+409,Arabica,Haiti,7.58,7.5,7.67,7.5,10
+410,Arabica,Colombia,7.67,7.67,7.5,7.67,10
+411,Arabica,Guatemala,7.83,7.67,7.17,7.67,10
+412,Arabica,United States (Hawaii),7.92,7.5,7.58,7.83,10
+413,Arabica,Burundi,7.75,7.67,7.33,7.5,10
+414,Arabica,Colombia,7.5,7.67,7.67,7.58,10
+415,Arabica,United States (Hawaii),8.08,7.83,7.83,7.75,9.33
+416,Arabica,United States (Hawaii),7.58,7.67,7.58,7.5,10
+417,Arabica,Mexico,7.67,7.83,7.42,7.83,10
+418,Arabica,Costa Rica,7.5,7.5,7.83,7.5,10
+419,Arabica,Costa Rica,7.83,7.5,7.42,7.67,10
+420,Arabica,Guatemala,7.5,7.58,7.42,7.83,10
+421,Arabica,Uganda,7.5,7.67,7.67,7.42,10
+422,Arabica,Brazil,7.58,7.67,7.42,7.5,10
+423,Arabica,Colombia,7.58,7.67,7.67,7.17,10
+424,Arabica,Mexico,7.83,7.75,7.5,7.58,10
+425,Arabica,Taiwan,7.5,7.5,7.67,7.83,83.25
+426,Arabica,Taiwan,7.83,7.75,7.58,7.5,7.33
+427,Arabica,Colombia,7.58,7.58,7.5,7.58,10
+428,Arabica,Guatemala,7.5,7.67,7.58,7.67,10
+429,Arabica,Colombia,7.83,7.5,7.67,7.33,10
+430,Arabica,Mexico,7.58,7.75,7.5,7.5,10
+431,Arabica,United States (Hawaii),7.58,7.75,7.83,8,9.33
+432,Arabica,Mexico,7.75,7.58,7.58,7.58,10
+433,Arabica,Mexico,7.75,7.75,7.42,7.92,10
+434,Arabica,Guatemala,7.83,7.58,7.08,7.83,10
+435,Arabica,Brazil,7.75,7.67,7.5,7.58,10
+436,Arabica,Colombia,7.67,7.58,7.58,7.42,10
+437,Arabica,Colombia,7.67,7.67,7.5,7.5,10
+438,Arabica,Colombia,7.92,7.75,7.25,7.42,10
+439,Arabica,Colombia,8,7.67,7.67,7.25,10
+440,Arabica,Colombia,7.92,7.75,7.5,7.42,10
+441,Arabica,Brazil,7.67,7.42,7.5,7.58,10
+442,Arabica,Guatemala,7.58,7.58,7.33,7.67,10
+443,Arabica,"Tanzania, United Republic Of",7.67,7.58,7.42,7.67,10
+444,Arabica,Peru,7.92,7.5,7.5,7.58,10
+445,Arabica,Vietnam,7.58,7.42,7.08,7.33,10
+446,Arabica,Guatemala,7.67,7.75,7.42,7.75,10
+447,Arabica,Honduras,7.67,7.67,7.5,7.67,10
+448,Arabica,China,7.5,7.67,7.33,7.67,10
+449,Arabica,China,7.67,7.67,7.5,7.67,10
+450,Arabica,El Salvador,7.5,7.5,7.33,7.67,10
+451,Arabica,Guatemala,7.5,7.75,7.5,7.83,10
+452,Arabica,Guatemala,7.92,7.67,7.42,7.75,10
+453,Arabica,Kenya,7.83,7.75,7.67,7.75,9.33
+454,Arabica,Thailand,7.67,7.58,7.58,7.75,10
+455,Arabica,"Tanzania, United Republic Of",7.58,7.67,7.67,7.58,10
+456,Arabica,Colombia,7.58,7.5,7.5,7.67,10
+457,Arabica,Uganda,8,7.67,7.5,7.42,10
+458,Arabica,Colombia,7.58,7.75,7.5,7.58,10
+459,Arabica,Honduras,7.5,7.5,7.5,7.67,10
+460,Arabica,Honduras,7.67,7.67,7.5,7.67,10
+461,Arabica,Guatemala,7.33,7.83,7.17,8.17,10
+462,Arabica,United States (Hawaii),7.5,7.5,7.58,7.42,10
+463,Arabica,"Tanzania, United Republic Of",7.58,7.5,7.58,7.75,10
+464,Arabica,Guatemala,7.67,7.83,7.33,7.67,10
+465,Arabica,Mexico,7.75,7.58,7.58,7.58,10
+466,Arabica,Mexico,7.75,7.67,7.58,7.5,10
+467,Arabica,Mexico,7.58,7.75,7.42,7.67,10
+468,Arabica,Colombia,7.67,7.5,7.5,7.5,10
+469,Arabica,Mexico,7.75,7.5,7.42,7.75,10
+470,Arabica,Colombia,7.58,7.67,7.5,7.58,10
+471,Arabica,Mexico,7.5,7.75,7.58,7.58,10
+472,Arabica,Brazil,7.75,7.67,7.58,7.5,10
+473,Arabica,Brazil,7.92,7.58,7.5,7.58,10
+474,Arabica,Guatemala,7.75,7.5,7.67,7.5,9.33
+475,Arabica,Brazil,7.75,7.5,7.58,7.5,10
+476,Arabica,Brazil,7.58,7.75,7.67,7.5,10
+477,Arabica,El Salvador,7.42,7.83,8.17,8.08,10
+478,Arabica,Ethiopia,7.75,8,7.67,8.08,9.33
+479,Arabica,Colombia,7.58,7.67,7.33,7.67,10
+480,Arabica,Colombia,7.75,7.5,7.5,7.42,10
+481,Arabica,Brazil,7.58,7.58,7.58,7.5,10
+482,Arabica,Brazil,7.33,7.67,7.67,7.33,10
+483,Arabica,Taiwan,7.5,7.83,7.67,7.25,83.08
+484,Arabica,Brazil,7.42,7.67,7.58,7.5,10
+485,Arabica,Brazil,7.58,7.83,7.67,7.42,10
+486,Arabica,Costa Rica,7.83,7.33,7.5,7.67,10
+487,Arabica,United States (Hawaii),7.33,7.75,7.58,7.33,10
+488,Arabica,Taiwan,7.75,7.5,7.5,7.5,7.58
+489,Arabica,United States (Hawaii),7.83,7.83,7.33,7.17,10
+490,Arabica,Mexico,7.75,7.67,7.42,7.75,10
+491,Arabica,United States (Hawaii),7.67,7.58,7.5,7.67,10
+492,Arabica,United States (Hawaii),7.33,7.58,7.58,7.92,10
+493,Arabica,Colombia,7.33,7.33,7.33,7.58,10
+494,Arabica,Colombia,7.83,7.75,7.33,7.25,10
+495,Arabica,Indonesia,7.67,7.58,7.5,7.58,10
+496,Arabica,Guatemala,7.92,7.67,7.67,7.25,10
+497,Arabica,Brazil,7.58,7.5,7.5,7.75,10
+498,Arabica,Brazil,7.5,7.58,7.58,7.67,10
+499,Arabica,Brazil,7.5,7.67,7.58,7.67,10
+500,Arabica,Uganda,7.67,7.58,7.42,7.42,10
+501,Arabica,Uganda,7.67,7.67,7.5,7.58,10
+502,Arabica,Colombia,7.67,7.67,7.33,7.67,10
+503,Arabica,Vietnam,7.75,7.67,7.58,7.58,10
+504,Arabica,Guatemala,7.67,7.75,7.33,7.92,10
+505,Arabica,Guatemala,7.75,7.67,7.33,7.75,10
+506,Arabica,Guatemala,7.83,7.67,7.25,7.67,10
+507,Arabica,Brazil,7.67,7.67,7.67,7.5,10
+508,Arabica,Taiwan,7.33,7.25,10,10,0
+509,Arabica,Uganda,7.83,7.58,7.5,7.5,10
+510,Arabica,United States (Puerto Rico),7.67,7.5,7.67,7.83,9.33
+511,Arabica,Guatemala,7.67,7.67,7.42,7.83,10
+512,Arabica,Costa Rica,7.67,7.58,7.5,7.58,10
+513,Arabica,Brazil,7.75,7.58,7.42,7.67,10
+514,Arabica,Colombia,7.75,7.42,7.33,7.5,10
+515,Arabica,Colombia,7.83,7.5,7.58,7.33,10
+516,Arabica,Colombia,7.33,7.67,7.75,7.42,10
+517,Arabica,Colombia,7.58,7.75,7.42,7.67,10
+518,Arabica,Colombia,7.5,7.5,7.42,7.58,10
+519,Arabica,Mexico,7.67,7.58,7.42,7.5,10
+520,Arabica,Mexico,7.67,7.83,7.5,7.58,10
+521,Arabica,Mexico,7.5,7.67,7.5,7.5,10
+522,Arabica,Colombia,7.67,7.58,7.5,7.5,10
+523,Arabica,Colombia,7.75,7.58,7.5,7.67,10
+524,Arabica,Colombia,7.67,7.58,7.58,7.58,10
+525,Arabica,Guatemala,7.5,7.67,7.5,7.67,10
+526,Arabica,Colombia,7.67,7.67,7.58,7.5,10
+527,Arabica,Thailand,7.33,7.67,7.58,7.5,10
+528,Arabica,Colombia,7.33,7.67,7.58,7.33,10
+529,Arabica,United States (Hawaii),7.83,7.83,7.67,7.83,9.33
+530,Arabica,United States (Hawaii),7.5,7.58,7.42,7.58,10
+531,Arabica,Colombia,7.5,7.58,7.67,7.67,10
+532,Arabica,Nicaragua,7.58,7.83,7.75,7.92,9.33
+533,Arabica,Thailand,7.5,7.25,7.42,7.75,10
+534,Arabica,Brazil,7.67,7.58,7.5,7.58,10
+535,Arabica,El Salvador,7.5,7.5,7.75,7.58,9.33
+536,Arabica,Colombia,7.58,7.67,7.5,7.33,10
+537,Arabica,Taiwan,7.25,7.67,7.67,7.58,82.92
+538,Arabica,Ethiopia,7.58,7.58,7.5,7.5,10
+539,Arabica,Taiwan,7.58,7.67,7.33,7.5,7.58
+540,Arabica,Philippines,7.58,7.58,7.67,7.58,10
+541,Arabica,Philippines,8.08,7.5,7.67,7.42,10
+542,Arabica,Mexico,7.83,7.67,7.25,7.58,10
+543,Arabica,Mexico,7.75,7.67,7.42,7.42,10
+544,Arabica,Brazil,7.08,7.5,7.5,7.83,10
+545,Arabica,Uganda,8,7.5,7.5,7.58,10
+546,Arabica,Uganda,7.75,7.58,7.58,7.5,10
+547,Arabica,Guatemala,7.75,7.5,7.42,7.58,10
+548,Arabica,Guatemala,7.67,7.83,7.42,7.5,10
+549,Arabica,Guatemala,7.58,7.58,7.25,7.58,10
+550,Arabica,Colombia,7.58,7.5,7.75,7.33,10
+551,Arabica,Colombia,7.75,7.5,7.25,7.5,10
+552,Arabica,Guatemala,7.83,7.75,7.25,7.92,10
+553,Arabica,Colombia,7.83,7.67,7.42,7.42,10
+554,Arabica,Mexico,7.58,7.58,7.33,7.25,10
+555,Arabica,Vietnam,7.67,7.33,7.17,7.58,10
+556,Arabica,Mexico,8,7.92,7.67,7.17,10
+557,Arabica,United States (Hawaii),7.5,7.5,7.5,7.42,10
+558,Arabica,Colombia,7.5,7.75,7.33,7.75,10
+559,Arabica,Thailand,7.42,7.58,7.5,7.17,10
+560,Arabica,Kenya,7.75,7.58,7.42,7.58,10
+561,Arabica,Guatemala,7.5,7.58,7.33,7.67,10
+562,Arabica,Brazil,7.67,7.58,7.58,7.5,10
+563,Arabica,El Salvador,7.33,7.67,7.67,7.83,10
+564,Arabica,Rwanda,7.83,7.92,7.75,7.83,9.33
+565,Arabica,Vietnam,7.25,7.58,7.5,7.42,10
+566,Arabica,Guatemala,7.58,7.58,7.33,7.67,10
+567,Arabica,Brazil,7.58,7.83,7.33,7.67,10
+568,Arabica,Colombia,7.83,7.67,7.5,7.58,10
+569,Arabica,United States,7.42,7.58,7.25,7.5,10
+570,Arabica,Guatemala,7.67,7.67,7.75,7.67,10
+571,Arabica,Colombia,7.5,7.42,7.58,7.5,10
+572,Arabica,Colombia,7.83,7.5,7.5,7.42,10
+573,Arabica,"Tanzania, United Republic Of",7.67,7.5,7.33,7.25,10
+574,Arabica,Mexico,7.58,7.67,7.5,7.58,10
+575,Arabica,Mexico,7.67,7.58,7.42,7.75,10
+576,Arabica,Guatemala,7.67,7.67,7.33,7.5,10
+577,Arabica,Mexico,7.58,7.58,7.5,7.42,10
+578,Arabica,El Salvador,7.75,7.58,7.75,7.75,10
+579,Arabica,Guatemala,7.5,7.58,7.42,7.67,10
+580,Arabica,Guatemala,7.58,7.67,7.5,7.58,10
+581,Arabica,Guatemala,7.5,7.67,7.17,7.67,10
+582,Arabica,Guatemala,7.5,7.5,7.42,7.58,10
+583,Arabica,Guatemala,7.42,7.58,7.42,7.67,10
+584,Arabica,Indonesia,7.5,7.58,7.42,7.58,10
+585,Arabica,Guatemala,7.58,7.58,7.33,7.58,10
+586,Arabica,Taiwan,7.83,7.67,7.33,7.67,10
+587,Arabica,El Salvador,7.67,7.67,7.17,7.33,10
+588,Arabica,Costa Rica,7.58,7.5,7.42,7.67,10
+589,Arabica,Honduras,7.58,7.5,7.42,7.58,10
+590,Arabica,Brazil,7.5,7.5,7.58,7.5,10
+591,Arabica,China,7.67,7.5,7.33,7.33,10
+592,Arabica,China,7.5,7.67,7.42,7.67,10
+593,Arabica,Colombia,7.5,7.58,7.58,7.75,10
+594,Arabica,Malawi,7.75,7.58,7.42,7.5,10
+595,Arabica,Guatemala,7.75,7.42,7.25,7.75,10
+596,Arabica,Colombia,7.67,7.42,7.42,7.58,10
+597,Arabica,United States (Hawaii),7.67,7.58,7.42,7.83,10
+598,Arabica,United States (Hawaii),7.58,7.83,7.75,7.75,10
+599,Arabica,Colombia,7.58,7.33,7.17,7.33,10
+600,Arabica,Mexico,7.58,7.58,7.5,7.5,10
+601,Arabica,Mexico,7.58,7.58,7.33,7.75,10
+602,Arabica,Mexico,8.08,8.17,8,8,10
+603,Arabica,Colombia,7.5,7.58,7.42,7.67,10
+604,Arabica,Colombia,7.67,7.58,7.58,7.58,10
+605,Arabica,United States (Hawaii),7.25,7.75,7.5,7.83,10
+606,Arabica,Panama,7.42,7.42,7.5,7.58,10
+607,Arabica,United States (Hawaii),7.75,7.67,7.5,7.83,10
+608,Arabica,Brazil,7.5,7.58,7.25,7.75,10
+609,Arabica,Brazil,7.5,7.58,7.5,7.67,10
+610,Arabica,Laos,7.67,7.67,7.42,7.42,10
+611,Arabica,El Salvador,7.67,7.67,7.67,7.67,9.33
+612,Arabica,Mexico,7.5,7.67,7.42,7.75,10
+613,Arabica,Colombia,7.75,7.5,7.33,7.58,10
+614,Arabica,Brazil,7.58,7.5,7.42,7.67,10
+615,Arabica,Brazil,7.33,7.5,7.58,7.58,10
+616,Arabica,"Tanzania, United Republic Of",7.5,7.5,7.5,7.5,10
+617,Arabica,"Tanzania, United Republic Of",7.58,7.5,7.5,7.58,10
+618,Arabica,Taiwan,7.83,7.42,7.25,7.25,82.67
+619,Arabica,Mexico,7.67,7.58,7.42,7.5,10
+620,Arabica,Uganda,7.67,7.5,7.33,7.67,10
+621,Arabica,Taiwan,7.5,7.5,7.5,7.5,7.5
+622,Arabica,Thailand,7.42,7.5,7.5,7.67,10
+623,Arabica,Colombia,7.75,7.58,7.67,7.25,10
+624,Arabica,El Salvador,7.92,8,7.5,6.75,9.33
+625,Arabica,Guatemala,7.67,7.67,7.17,7.67,10
+626,Arabica,Thailand,7.83,7.33,7.83,7.33,9.33
+627,Arabica,Mexico,7.58,7.58,7.42,7.58,10
+628,Arabica,Mexico,7.5,7.58,7.58,7.58,10
+629,Arabica,Colombia,7.33,7.58,7.42,7.42,10
+630,Arabica,United States (Hawaii),7.83,7.67,7.5,7.67,9.33
+631,Arabica,Mexico,7.75,7.58,7.25,7.75,10
+632,Arabica,Colombia,8.08,7.67,7.67,7.33,10
+633,Arabica,Colombia,7.5,7.42,7.33,7.33,10
+634,Arabica,Guatemala,7.5,7.42,7.42,7.75,10
+635,Arabica,Taiwan,7.67,7.42,7.5,7.42,10
+636,Arabica,Brazil,7.5,7.58,7.42,7.5,10
+637,Arabica,Taiwan,7.08,7,7,10,0.11
+638,Arabica,Brazil,7.42,7.42,7.5,7.33,10
+639,Arabica,Indonesia,7.83,7.58,7.42,7.33,10
+640,Arabica,Thailand,7.75,7.33,7.42,7.67,10
+641,Arabica,Thailand,7.42,7.58,7.58,7.42,10
+642,Arabica,"Tanzania, United Republic Of",7.75,7.42,7.33,7.5,10
+643,Arabica,Uganda,7.83,7.5,7.42,7.58,10
+644,Arabica,Costa Rica,7.67,7.42,7.5,7.67,10
+645,Arabica,Mexico,7.58,7.58,7.42,7.75,10
+646,Arabica,Guatemala,7.5,7.58,7.42,7.58,10
+647,Arabica,Colombia,7.75,7.25,7.33,7.42,10
+648,Arabica,Colombia,7.75,7.5,7.75,7.25,10
+649,Arabica,Colombia,7.58,7.5,7.42,7.58,10
+650,Arabica,Mexico,7.5,7.58,7.5,7.5,10
+651,Arabica,Mexico,7.67,7.58,7.58,7.75,10
+652,Arabica,Colombia,7.33,7.42,7.58,7.42,10
+653,Arabica,Brazil,7.58,7.5,7.33,7.75,10
+654,Arabica,Brazil,7.5,7.5,7.5,7.5,10
+655,Arabica,Indonesia,7.83,7.75,7.25,7.5,10
+656,Arabica,Honduras,7.58,7.58,7.33,7.5,10
+657,Arabica,Guatemala,7.5,7.5,7.33,7.5,10
+658,Arabica,Thailand,7.5,7.83,7.5,7.75,10
+659,Arabica,Thailand,7.33,7.5,7.5,7.5,10
+660,Arabica,"Tanzania, United Republic Of",7.67,7.42,7.33,7.58,10
+661,Arabica,"Tanzania, United Republic Of",7.75,7,7.42,7.58,10
+662,Arabica,Mexico,7.42,7.58,7.5,7.67,10
+663,Arabica,Brazil,7.42,7.5,7.67,7.33,10
+664,Arabica,Guatemala,7.83,7.42,7.33,7.67,10
+665,Arabica,Colombia,7.5,7.5,7.42,7.42,10
+666,Arabica,Guatemala,7.83,7.67,7.17,7.33,10
+667,Arabica,Mexico,7.5,7.58,7.5,7.5,10
+668,Arabica,Mexico,7.67,7.5,7.33,7.67,10
+669,Arabica,Mexico,7.92,7.5,7.33,7.58,10
+670,Arabica,Guatemala,7.67,7.33,7.33,7.33,10
+671,Arabica,Brazil,7.67,7.42,7.33,7.67,10
+672,Arabica,Colombia,7.67,7.5,7.33,7.5,10
+673,Arabica,United States (Hawaii),7.33,7.42,7.33,7.75,10
+674,Arabica,Guatemala,7.75,7.58,7.67,7.67,10
+675,Arabica,Honduras,7.42,7.67,7.17,7.58,10
+676,Arabica,Guatemala,7.58,7.5,7.33,7.75,10
+677,Arabica,Guatemala,7.67,7.58,7.25,7.67,10
+678,Arabica,Guatemala,7.58,7.5,7.25,7.67,10
+679,Arabica,Guatemala,7.5,7.42,7.08,7.75,10
+680,Arabica,Colombia,5.08,7.75,7.83,7.75,10
+681,Arabica,China,7.67,7.42,7.42,7.5,10
+682,Arabica,Brazil,7.42,7.5,7.33,7.5,10
+683,Arabica,"Tanzania, United Republic Of",7.67,7.25,7.42,7.42,10
+684,Arabica,Brazil,7.17,7.83,7.33,7.5,10
+685,Arabica,Guatemala,7.5,7.5,7.5,7.67,10
+686,Arabica,Mexico,7.42,7.5,7.42,7.58,10
+687,Arabica,Brazil,7.58,7.67,7.33,7.5,10
+688,Arabica,Peru,7.58,7.58,7.58,7.75,10
+689,Arabica,Brazil,7.25,7.33,7.25,7.5,10
+690,Arabica,Mexico,7.5,7.58,7.5,7.92,10
+691,Arabica,Honduras,7.25,7.67,7.42,7.17,10
+692,Arabica,Colombia,7.67,7.42,7.33,7.5,10
+693,Arabica,Mexico,7.5,7.42,7.42,7.67,10
+694,Arabica,Mexico,7.42,7.58,7.5,7.42,10
+695,Arabica,Mexico,7.42,7.58,7.33,7.58,10
+696,Arabica,Mexico,7.75,7.33,7.25,7.58,10
+697,Arabica,Mexico,7.5,7.58,7.33,7.5,10
+698,Arabica,Mexico,7.58,7.58,7.17,7.5,10
+699,Arabica,Mexico,7.58,7.33,7.33,7.58,10
+700,Arabica,Mexico,7.67,7.58,7.33,7.42,10
+701,Arabica,Mexico,7.83,7.5,7.42,7.67,10
+702,Arabica,Colombia,7.67,7.33,7.25,7.42,10
+703,Arabica,Brazil,7.75,7.5,7.42,7.42,10
+704,Arabica,Colombia,7.33,7.58,7.17,7.58,10
+705,Arabica,Colombia,7.58,7.25,7.42,7.25,10
+706,Arabica,Honduras,7.5,7.58,7.33,7.5,10
+707,Arabica,Brazil,7.33,7.5,7.5,7.33,10
+708,Arabica,Brazil,7.42,7.42,7.42,7.5,10
+709,Arabica,Brazil,7.5,7.5,7.42,7.5,10
+710,Arabica,Costa Rica,7.75,7.5,7.25,7.25,10
+711,Arabica,Costa Rica,7.75,7.33,7.5,7.5,10
+712,Arabica,China,7.5,7.58,7.42,7.5,10
+713,Arabica,Brazil,8.25,7.83,7.25,8.33,10
+714,Arabica,Brazil,7.42,7.5,7.5,7.42,10
+715,Arabica,Guatemala,7.5,7.42,7.17,7.83,10
+716,Arabica,Malawi,7.33,7.58,7.42,7.58,10
+717,Arabica,Brazil,7.75,8.08,7.67,8.08,6.67
+718,Arabica,Guatemala,7.58,7.67,7.5,7.58,10
+719,Arabica,Mexico,7.33,7.58,7.42,7.5,10
+720,Arabica,Colombia,7.42,7.33,7.5,7.17,10
+721,Arabica,Taiwan,7.5,7.5,10,10,0
+722,Arabica,Taiwan,7.5,7.5,7.5,7.5,82.33
+723,Arabica,Guatemala,7.5,7.42,7.58,7.5,10
+724,Arabica,Colombia,7.5,7.42,7.5,7.5,10
+725,Arabica,Mexico,7.67,7.5,7.42,7.5,10
+726,Arabica,Costa Rica,7.92,7.58,7.25,7.75,10
+727,Arabica,Guatemala,7.67,7.5,7.33,7.67,10
+728,Arabica,Mexico,7.58,7.67,7.58,7.33,10
+729,Arabica,Mexico,7.67,7.58,7.5,7.58,10
+730,Arabica,Guatemala,7.5,7.67,7.33,7.5,10
+731,Arabica,Brazil,7.58,7.5,7.42,7.5,10
+732,Arabica,Mexico,8,7.75,7.33,7.33,10
+733,Arabica,Brazil,7.58,7.58,7.25,7.58,10
+734,Arabica,Colombia,7.83,7.58,7.33,7.25,10
+735,Arabica,Brazil,7.58,7.5,7.25,7.42,10
+736,Arabica,Taiwan,7,7.08,7,7.17,10
+737,Arabica,Guatemala,7.67,7.5,7.25,7.67,10
+738,Arabica,Brazil,7.42,7.67,7.5,7.08,10
+739,Arabica,El Salvador,7.58,7.67,7.5,7.67,9.33
+740,Arabica,Honduras,7.58,7.5,7.42,7.58,10
+741,Arabica,Malawi,7.58,7.42,7.33,7.42,10
+742,Arabica,Brazil,7.75,7.58,7.42,7.42,10
+743,Arabica,Taiwan,7.5,7.5,7.5,7.5,82.25
+744,Arabica,Mexico,7.58,7.58,7.42,7.42,10
+745,Arabica,United States (Hawaii),7.33,7.42,7.5,7.67,10
+746,Arabica,Mexico,7.58,7.58,7.5,7.17,10
+747,Arabica,Guatemala,7.5,7.5,7.33,7.58,10
+748,Arabica,Mexico,7.5,7.58,7.42,7.67,10
+749,Arabica,Mexico,7.67,7.58,7.33,7.5,10
+750,Arabica,El Salvador,7.75,7.33,7.33,7.5,10
+751,Arabica,Mexico,7.33,7.58,7.42,7.67,10
+752,Arabica,Mexico,7.42,7.5,7.42,7.58,10
+753,Arabica,Colombia,7.5,7.42,7.67,7.33,10
+754,Arabica,Colombia,7.67,7.33,7.33,7.33,10
+755,Arabica,Brazil,7.67,7.58,7.42,7,10
+756,Arabica,Colombia,7.17,7.25,7.58,7.25,10
+757,Arabica,Brazil,7.42,7.42,7.5,7.42,10
+758,Arabica,Honduras,7.5,7.5,7.17,7.42,10
+759,Arabica,Nicaragua,7.5,7.5,7.33,7.42,10
+760,Arabica,"Tanzania, United Republic Of",7.58,7.42,7.42,7.33,10
+761,Arabica,"Tanzania, United Republic Of",7.42,7.42,7.42,7.5,10
+762,Arabica,Brazil,6.92,7.58,7.42,7.33,10
+763,Arabica,Thailand,7.42,7.42,7.17,7.75,10
+764,Arabica,Honduras,7.67,7.5,7.25,7.42,10
+765,Arabica,Guatemala,7.42,7.42,7.5,7.5,10
+766,Arabica,Brazil,7.58,7.5,7.42,7.25,10
+767,Arabica,"Tanzania, United Republic Of",7.75,7.42,7.42,7.58,10
+768,Arabica,Mexico,7.42,7.33,7.17,7.42,10
+769,Arabica,Mexico,7.5,7.5,7.33,7.42,10
+770,Arabica,Taiwan,7.5,7.5,7.5,7.5,7.17
+771,Arabica,Taiwan,7.5,7.17,7.17,7.58,82.17
+772,Arabica,Colombia,7.33,7.25,7.25,7.58,10
+773,Arabica,Mexico,7.5,7.67,7,7.5,10
+774,Arabica,Guatemala,7.25,7.75,7,7.75,9.33
+775,Arabica,Mexico,7.5,7.58,7.25,7.5,10
+776,Arabica,Mexico,7,7.67,7.5,7.5,10
+777,Arabica,Colombia,7.58,7.67,7.42,7.17,10
+778,Arabica,Indonesia,7.5,7.5,7.42,7.42,10
+779,Arabica,Colombia,7.75,7.58,7.42,7.67,10
+780,Arabica,Brazil,7.42,7.58,7.42,7.5,10
+781,Arabica,Brazil,7.25,7.25,7.58,7.58,10
+782,Arabica,Costa Rica,7.75,7.42,7.42,7.25,10
+783,Arabica,"Tanzania, United Republic Of",7.42,7.33,7.42,7.42,10
+784,Arabica,"Tanzania, United Republic Of",7.42,7.5,7.5,7.33,10
+785,Arabica,Colombia,7.5,7.42,7.42,7.42,10
+786,Arabica,Costa Rica,7.58,7.33,7.33,7.33,10
+787,Arabica,United States (Hawaii),7.25,7.58,7.58,7.25,10
+788,Arabica,Mexico,7.42,7.58,7.5,7.33,10
+789,Arabica,Mexico,7.5,7.42,7.42,7.5,10
+790,Arabica,Mexico,7.67,7.5,7.25,7.58,10
+791,Arabica,Vietnam,7.67,8,7.17,7.08,10
+792,Arabica,Mexico,7.58,7.42,7.25,7.75,10
+793,Arabica,United States (Hawaii),7.33,7.5,7.33,7.58,10
+794,Arabica,Colombia,7.67,7.42,7.67,7.33,10
+795,Arabica,Honduras,7.5,7.5,7.17,7.5,10
+796,Arabica,Honduras,7.5,7.5,7.25,7.33,10
+797,Arabica,Brazil,7.5,7.33,7.42,7.5,10
+798,Arabica,"Tanzania, United Republic Of",7.67,7.33,7.33,7.42,10
+799,Arabica,Laos,7.42,7.5,7.25,7.33,10
+800,Arabica,"Tanzania, United Republic Of",7.42,7.42,7.33,7.58,10
+801,Arabica,Malawi,7.5,7.42,7.33,7.58,10
+802,Arabica,Taiwan,7.33,7.5,7.17,7.42,10
+803,Arabica,Thailand,7.58,7.5,7.42,7.42,10
+804,Arabica,Costa Rica,7.5,7.25,7.33,7.33,10
+805,Arabica,Honduras,7.33,7.33,7.33,7.5,10
+806,Arabica,Colombia,7.33,7.33,7.58,7.5,10
+807,Arabica,Taiwan,7.33,7.42,8,7.5,82
+808,Arabica,Brazil,7.33,7.67,7.42,7.17,10
+809,Arabica,Mexico,7.67,7.33,7.25,7.5,10
+810,Arabica,Brazil,7.42,7.5,7.33,7.5,10
+811,Arabica,Brazil,7.42,7.5,7.25,7.5,10
+812,Arabica,Guatemala,7.33,7.33,7.33,7.5,10
+813,Arabica,Brazil,7.58,7.5,7.17,7.5,10
+814,Arabica,Guatemala,7.75,7.33,7.33,7.42,9.33
+815,Arabica,Colombia,7.33,7,7.08,7.42,10
+816,Arabica,Guatemala,7.58,7.5,7.25,7.58,10
+817,Arabica,Guatemala,7.5,7.5,7.25,7.42,10
+818,Arabica,Honduras,7.58,7.5,7.25,7.33,10
+819,Arabica,Brazil,7.42,7.33,7.33,7.5,10
+820,Arabica,El Salvador,7.67,7.58,7.33,7.5,9.33
+821,Arabica,Guatemala,7.58,7.58,7.17,7.83,10
+822,Arabica,"Tanzania, United Republic Of",7.33,7.33,7.33,7.42,10
+823,Arabica,Nicaragua,7.58,7.42,7.25,7.17,10
+824,Arabica,Zambia,7.67,7.08,7.42,7.33,10
+825,Arabica,Honduras,7.42,7.33,7.33,7.58,10
+826,Arabica,Taiwan,7.42,7.25,7.5,7.5,81.92
+827,Arabica,Mexico,7.58,7.5,7.25,7.58,10
+828,Arabica,Mexico,7.5,7.5,7.25,7.25,10
+829,Arabica,Mexico,7.5,7.42,7.25,7.5,10
+830,Arabica,Mexico,7.33,7.58,7.17,7.58,10
+831,Arabica,Mexico,7.67,7.42,7.33,7.83,10
+832,Arabica,Brazil,7.42,7.58,7.25,7.5,10
+833,Arabica,Colombia,7.67,7.33,7.33,7.58,10
+834,Arabica,Guatemala,7.42,7.5,7.25,7.5,10
+835,Arabica,Costa Rica,7.25,7.33,7.5,7.33,10
+836,Arabica,Brazil,7.42,7.5,7.42,7.5,10
+837,Arabica,Indonesia,7.75,7.83,7.58,7.75,10
+838,Arabica,Guatemala,7.58,7.5,7.33,7.42,10
+839,Arabica,Brazil,7.17,7.58,6.83,7.5,10
+840,Arabica,Brazil,7.58,7,6.92,6.92,10
+841,Arabica,Myanmar,7.33,7.58,7.5,7.42,10
+842,Arabica,Mexico,7.58,7.5,7.33,7.5,10
+843,Arabica,Honduras,7.5,7.5,7.33,7.5,10
+844,Arabica,Costa Rica,7.67,7.5,7.5,7.25,10
+845,Arabica,Taiwan,7.75,7.33,10,10,0
+846,Arabica,Indonesia,7.42,7.42,7.42,7.33,10
+847,Arabica,Malawi,7.58,7.42,7.33,7.33,10
+848,Arabica,Brazil,7.33,7.58,7.25,7.17,10
+849,Arabica,Honduras,7.5,7.5,7.33,7.33,10
+850,Arabica,Mexico,7.42,7.42,7.25,7.5,10
+851,Arabica,Colombia,7.5,7.5,7,7.42,10
+852,Arabica,United States (Hawaii),7.83,7.83,7.83,8,10
+853,Arabica,Brazil,7.75,7.75,7.5,7.42,9.33
+854,Arabica,Guatemala,7.83,7.67,7.33,7.33,9.33
+855,Arabica,Mexico,7.83,7.33,7.25,7.58,10
+856,Arabica,Mexico,7.33,7.33,7.25,7.5,10
+857,Arabica,Brazil,7.33,7.67,7.25,7.5,10
+858,Arabica,Colombia,7.58,7.5,7.17,7.58,10
+859,Arabica,United States (Hawaii),7.25,7.58,7.83,7.67,10
+860,Arabica,Guatemala,7.5,7.5,7.25,7.42,10
+861,Arabica,Vietnam,7,7.08,7.33,7.5,10
+862,Arabica,"Tanzania, United Republic Of",7.42,7.42,7.42,7.42,10
+863,Arabica,Brazil,7.17,7.25,7.17,7.25,10
+864,Arabica,Mexico,7.5,7.5,7.33,7.42,10
+865,Arabica,Mexico,7.42,7.5,7.17,7.67,10
+866,Arabica,Mexico,7.42,7.5,7.33,7.58,10
+867,Arabica,Mexico,7.33,7.42,7.33,7.67,10
+868,Arabica,Mexico,7.5,7.42,7.25,7.33,10
+869,Arabica,Colombia,7.33,7.42,7.33,7.33,10
+870,Arabica,Colombia,7.42,7.58,6.92,7.08,10
+871,Arabica,Brazil,7.42,7.5,7.25,7.5,10
+872,Arabica,Guatemala,7.42,7.42,7.08,7.42,10
+873,Arabica,Guatemala,7.42,7.33,7.17,7.67,10
+874,Arabica,Honduras,7.58,7.5,7.33,7.33,10
+875,Arabica,"Tanzania, United Republic Of",7.17,7.33,7.33,7.42,10
+876,Arabica,Nicaragua,7.58,7.5,7.25,7.25,10
+877,Arabica,Colombia,7.75,7.75,7.75,7.67,10
+878,Arabica,Brazil,7.25,7.75,6.92,7.42,10
+879,Arabica,"Tanzania, United Republic Of",7.42,7.33,7.25,7.42,10
+880,Arabica,"Tanzania, United Republic Of",7.33,7.33,7.5,7.25,10
+881,Arabica,Brazil,7.25,7.42,7.25,7.5,10
+882,Arabica,Indonesia,7.17,7.42,7.33,7.42,10
+883,Arabica,Honduras,7.5,7.33,7.5,7.5,10
+884,Arabica,Costa Rica,7.5,7.17,7.17,7.17,10
+885,Arabica,Mexico,7.42,7.42,7.67,8,10
+886,Arabica,Taiwan,7.42,7.25,10,10,0
+887,Arabica,Taiwan,7.58,7.42,7.33,7.42,10
+888,Arabica,Mexico,7.5,7.42,7.08,7.58,10
+889,Arabica,Guatemala,7.5,7.67,7.33,7.33,10
+890,Arabica,Mexico,7.25,7.67,7.58,7.67,10
+891,Arabica,Mexico,7.67,7.25,7.17,7.75,10
+892,Arabica,Mexico,7.5,7.42,7.33,7.42,10
+893,Arabica,Mexico,7.58,7.42,7.25,7.58,10
+894,Arabica,Mexico,7.75,7.58,7.25,7.17,10
+895,Arabica,United States (Hawaii),7.42,7.33,7.33,7.33,10
+896,Arabica,Honduras,7.5,7.42,7.08,7.42,10
+897,Arabica,Guatemala,7.42,7.42,7.08,7.5,10
+898,Arabica,Taiwan,7.42,7.42,7.25,7.67,10
+899,Arabica,Costa Rica,7.58,7.42,7.5,7.17,10
+900,Arabica,"Tanzania, United Republic Of",7.42,7.42,7.33,7.42,10
+901,Arabica,Malawi,7.42,7.42,7.17,7.58,10
+902,Arabica,Taiwan,7.33,7.17,7.08,7.08,9.33
+903,Arabica,Brazil,7.42,7.42,7.33,7.33,10
+904,Arabica,Guatemala,7.42,7.33,7.17,7.58,10
+905,Arabica,Mexico,7.67,7.5,7.42,7.5,10
+906,Arabica,Mexico,7.33,7.5,7.25,7.5,10
+907,Arabica,Mexico,7.67,7.58,7.42,7.58,8.67
+908,Arabica,Thailand,7.08,7.33,7.58,7.58,10
+909,Arabica,Thailand,7.33,7.33,7.17,7.5,10
+910,Arabica,Costa Rica,7.25,7.17,7.33,7.33,10
+911,Arabica,Guatemala,7.67,7.58,7.17,7.42,10
+912,Arabica,Nicaragua,7.5,7.42,7.33,7.33,10
+913,Arabica,Honduras,7.5,7.5,7.33,7.42,10
+914,Arabica,Guatemala,7.5,7.42,7.25,7.25,10
+915,Arabica,Taiwan,7.42,7.33,7.08,7.58,7.33
+916,Arabica,Myanmar,7.25,7.42,7.25,7.5,10
+917,Arabica,Costa Rica,7.83,7.33,7.08,7.08,10
+918,Arabica,Malawi,7.67,7.42,6.92,7.5,10
+919,Arabica,Guatemala,7.5,7.42,7.17,7.58,10
+920,Arabica,Taiwan,7.42,7.33,7.67,7.33,9.33
+921,Arabica,Brazil,7.58,7.5,7.5,7.67,9.33
+922,Arabica,Haiti,7.42,7.33,7.25,7.42,10
+923,Arabica,Taiwan,7.5,7.42,7.25,7.25,10
+924,Arabica,Mexico,7.33,7.33,7.17,7.42,10
+925,Arabica,Mexico,7.58,7.42,7.25,7.42,10
+926,Arabica,Mexico,7.42,7.25,7.17,7.42,10
+927,Arabica,Mexico,7.33,7.5,7.33,7.33,10
+928,Arabica,Mexico,7.42,7.42,7.33,7.17,10
+929,Arabica,Mexico,7.5,7.5,7.25,7.5,10
+930,Arabica,Indonesia,7.75,7.17,7.17,7.33,10
+931,Arabica,Brazil,7.5,7.42,7.17,7.42,10
+932,Arabica,Guatemala,7.33,7.5,7.33,7.42,10
+933,Arabica,Colombia,7.42,7.42,7.17,7.42,10
+934,Arabica,United States (Hawaii),7.33,7.33,7.33,7.5,10
+935,Arabica,Mexico,7.58,7.33,7.08,7.33,10
+936,Arabica,Guatemala,7.42,7.33,7.08,7.58,10
+937,Arabica,Brazil,7.33,7.5,7.5,7.33,10
+938,Arabica,Honduras,7.5,7.33,7.17,7.25,10
+939,Arabica,Taiwan,7.17,7.08,7.08,10,0.12
+940,Arabica,Malawi,7.58,7.17,7.33,7.42,10
+941,Arabica,Brazil,7.25,7.5,7.42,7.17,10
+942,Arabica,Guatemala,7.42,7.5,7.17,7.42,10
+943,Arabica,Mexico,7.67,7.33,7.25,7.17,10
+944,Arabica,Peru,7.42,7.42,7.17,7.33,10
+945,Arabica,Guatemala,7.42,7.33,7.25,7.42,10
+946,Arabica,Mexico,7.42,7.33,7.25,7.17,10
+947,Arabica,Mexico,7.42,7.42,7.25,7.25,10
+948,Arabica,Colombia,7.5,7.42,7.25,7.17,10
+949,Arabica,Colombia,7.75,7.33,7.42,7,10
+950,Arabica,United States (Hawaii),7.83,7,7,7.58,10
+951,Arabica,Colombia,7.5,7.33,7.33,7.17,10
+952,Arabica,Honduras,7.5,7.5,7,7.17,10
+953,Arabica,Mexico,7.67,7.42,7,7.42,10
+954,Arabica,Brazil,7.25,7.33,7.33,7.33,10
+955,Arabica,Honduras,7.58,7.42,7.17,7.42,10
+956,Arabica,Brazil,7.17,7.33,7.42,7.25,10
+957,Arabica,Philippines,7.08,7.33,7.42,7.33,10
+958,Arabica,Malawi,7.75,7.33,7.08,7.33,10
+959,Arabica,Honduras,7.33,7.33,7.17,7.33,10
+960,Arabica,Mexico,7.58,7.42,7.25,7.33,10
+961,Arabica,Mexico,7.33,7.25,7.17,7.42,10
+962,Arabica,Brazil,7.5,7.58,7.5,7.5,9.33
+963,Arabica,Taiwan,7.83,7.75,7.67,7.83,10
+964,Arabica,Brazil,7.17,7.42,7.17,7.08,10
+965,Arabica,Nicaragua,7.08,7.5,7.33,7.17,10
+966,Arabica,Honduras,7.42,7.17,7.17,7.5,10
+967,Arabica,Guatemala,7.33,7.42,7.17,7.25,10
+968,Arabica,"Tanzania, United Republic Of",7.33,7.17,7.17,7.5,10
+969,Arabica,Taiwan,7.25,7.25,7.25,7.25,81.25
+970,Arabica,Guatemala,7.5,7.33,7.5,7.58,10
+971,Arabica,Mexico,7.42,7.42,7.33,7.33,10
+972,Arabica,Nicaragua,7.33,7.5,7.17,7.17,10
+973,Arabica,"Tanzania, United Republic Of",7.67,7.17,7.17,7.33,10
+974,Arabica,Mexico,7.75,7.58,7.08,7.25,10
+975,Arabica,Costa Rica,7.5,7.5,7.33,7.17,10
+976,Arabica,Honduras,7.42,7.33,7,7.42,10
+977,Arabica,Thailand,6.83,7.42,7.42,7.17,10
+978,Arabica,Philippines,7.25,7.25,7.25,7.08,10
+979,Arabica,"Tanzania, United Republic Of",7.58,7.17,7.17,7.33,10
+980,Arabica,Malawi,7.58,7.25,7.33,7.08,10
+981,Arabica,Costa Rica,7.33,7.08,7.33,7.25,10
+982,Arabica,Brazil,7.42,7.42,7.17,7.42,10
+983,Arabica,Mexico,7.42,7.25,7.08,7.75,10
+984,Arabica,Guatemala,7.42,7.25,7.33,7.25,10
+985,Arabica,Brazil,7.42,7.33,7.25,7.42,10
+986,Arabica,United States (Hawaii),7.25,7.75,7.67,7.67,10
+987,Arabica,Ethiopia,7.42,7.33,7.17,7.33,10
+988,Arabica,Brazil,7.58,7.42,7.5,7.25,9.33
+989,Arabica,Nicaragua,7.33,7.33,7.33,7.42,10
+990,Arabica,United States,7.42,7.17,7.33,7.42,10
+991,Arabica,"Tanzania, United Republic Of",7.42,7.33,7.33,7.25,10
+992,Arabica,Costa Rica,7.42,7.25,7.17,7.25,10
+993,Arabica,United States (Puerto Rico),7.67,7.75,7.67,7.58,10
+994,Arabica,Mexico,7.25,7.42,7.33,7.33,10
+995,Arabica,Mexico,7.33,7.25,7.33,7.42,10
+996,Arabica,Mexico,7.33,7.33,7.25,7.42,10
+997,Arabica,Mexico,7.42,7.33,7.25,7.42,10
+998,Arabica,United States (Hawaii),7.42,7.42,7.25,7.58,10
+999,Arabica,Brazil,7.25,7.25,7.17,7.5,10
+1000,Arabica,El Salvador,7.42,7.08,7.08,7.33,10
+1001,Arabica,Brazil,7.33,7.17,7.17,7.67,10
+1002,Arabica,Guatemala,7.42,7.25,7.17,7.5,10
+1003,Arabica,Colombia,7.67,7.5,7.42,5.25,10
+1004,Arabica,Guatemala,7.5,7.25,7,7.25,10
+1005,Arabica,Taiwan,7.25,7.17,7.17,7.25,10
+1006,Arabica,Honduras,7.42,7.25,7.25,7.33,10
+1007,Arabica,Brazil,7.67,7.75,7.83,7.75,10
+1008,Arabica,"Tanzania, United Republic Of",7.33,7.33,7.08,7.42,10
+1009,Arabica,Uganda,7.33,6.92,7.17,7.33,10
+1010,Arabica,Taiwan,7.33,7.33,7.33,7.33,81
+1011,Arabica,Thailand,7.33,7.42,7.25,7.42,10
+1012,Arabica,Mexico,7.08,7.33,7.33,7.33,10
+1013,Arabica,Mexico,7.58,7.67,7.5,7.67,10
+1014,Arabica,Taiwan,7.25,7.33,7.33,7.25,80.92
+1015,Arabica,Guatemala,7.67,7.67,7.33,7.58,9.33
+1016,Arabica,Kenya,7.17,7.58,7.5,7.5,10
+1017,Arabica,Mexico,7.5,7.33,7.17,7.42,10
+1018,Arabica,Myanmar,7.17,7.42,7,7.58,10
+1019,Arabica,United States (Hawaii),7.42,7.08,7.17,7.17,10
+1020,Arabica,"Tanzania, United Republic Of",7.33,7.17,7.17,7.25,10
+1021,Arabica,Brazil,7.25,7.33,7.25,7.25,10
+1022,Arabica,Taiwan,7.92,7.67,7.33,7.08,10
+1023,Arabica,Brazil,7.17,7.42,7.17,7.25,10
+1024,Arabica,Nicaragua,7.33,7.08,7.25,7,10
+1025,Arabica,Guatemala,7.58,7.42,6.92,7.5,10
+1026,Arabica,Taiwan,7.25,7.25,10,10,0
+1027,Arabica,Taiwan,7.25,7.17,7.08,7.08,10
+1028,Arabica,Taiwan,7.25,7.25,7.25,7.25,80.92
+1029,Arabica,Mexico,7.58,7.33,7.08,7.5,10
+1030,Arabica,Thailand,7.67,7.58,7.33,7.33,10
+1031,Arabica,Laos,7.42,7.33,7.17,7.17,10
+1032,Arabica,Guatemala,7.67,7.25,7.08,7.33,10
+1033,Arabica,Mexico,7.17,7.08,7.25,7.42,10
+1034,Arabica,Mexico,7.33,7.25,7.33,7.33,10
+1035,Arabica,Mexico,7.5,7.17,7.33,7.25,10
+1036,Arabica,United States (Hawaii),7.42,7.33,7,7.25,10
+1037,Arabica,Colombia,7.33,7.33,7,6.83,10
+1038,Arabica,Brazil,7.17,7.25,7.08,7.17,10
+1039,Arabica,Myanmar,6.92,7.5,7,7.58,10
+1040,Arabica,Guatemala,7.5,7.33,7,7.42,10
+1041,Arabica,Nicaragua,7.25,7.25,7.17,7.25,10
+1042,Arabica,Honduras,7.5,7.33,7,7.42,10
+1043,Arabica,Panama,7.25,7.33,7.17,7.33,10
+1044,Arabica,Honduras,7.42,7.17,7.08,7.42,10
+1045,Arabica,Honduras,7.25,7.33,7.08,7.5,10
+1046,Arabica,Costa Rica,7.33,7.33,7.25,7.25,10
+1047,Arabica,Mexico,7.58,7.33,7.42,7.25,10
+1048,Arabica,Haiti,7.42,7,7.42,7.25,10
+1049,Arabica,United States (Hawaii),7.08,7.33,7.17,7.25,10
+1050,Arabica,Taiwan,7.08,7.08,7.08,7.42,7.33
+1051,Arabica,Indonesia,7.58,7.42,7,7.67,10
+1052,Arabica,Guatemala,7.67,7.42,6.83,7.17,10
+1053,Arabica,Costa Rica,7.83,7.5,7.67,7.67,10
+1054,Arabica,Malawi,7.5,7.25,7.17,7.17,10
+1055,Arabica,Mexico,7.25,7.17,7.17,7.25,10
+1056,Arabica,Colombia,7.67,7.5,7.42,7.67,6.67
+1057,Arabica,Guatemala,7.67,7.17,7,7.5,10
+1058,Arabica,Guatemala,7,7.33,7.5,7.33,10
+1059,Arabica,Guatemala,7,7.5,7.33,7.17,10
+1060,Arabica,Colombia,7.17,7.25,7.08,7.42,10
+1061,Arabica,Brazil,7.33,7.25,7.33,7.08,10
+1062,Arabica,Nicaragua,7.08,7.5,7,7.25,10
+1063,Arabica,"Tanzania, United Republic Of",7.25,7.08,7.08,7.33,10
+1064,Arabica,Brazil,7.42,7.25,7.33,7,10
+1065,Arabica,Honduras,7.5,7.17,7,7.42,10
+1066,Arabica,Guatemala,7.17,7.42,6.83,7.5,10
+1067,Arabica,United States (Hawaii),7.42,7.58,7.5,7.92,9.33
+1068,Arabica,Colombia,7.08,7.25,7,7.5,10
+1069,Arabica,Taiwan,7.17,7.17,7.17,7.42,10
+1070,Arabica,Guatemala,7.33,7.25,7.08,7.17,10
+1071,Arabica,Honduras,7.58,7.33,7,7.17,10
+1072,Arabica,Mauritius,7.25,7.25,7.17,7.17,10
+1073,Arabica,Brazil,7.25,7.33,7.17,7.5,10
+1074,Arabica,Myanmar,7.17,7.33,7.17,7.42,10
+1075,Arabica,Guatemala,7.5,7.17,6.83,7.5,10
+1076,Arabica,Brazil,7.42,7.42,7.08,7.33,10
+1077,Arabica,United States (Hawaii),7.42,7.33,7.33,7.58,10
+1078,Arabica,Guatemala,7.5,7.5,7,7.67,10
+1079,Arabica,Mexico,7.25,7.25,7.08,7.33,10
+1080,Arabica,Honduras,7.25,7.42,7,7.42,10
+1081,Arabica,Taiwan,7.17,7.17,7.17,7.17,7
+1082,Arabica,El Salvador,7.33,7.17,7.08,7.08,10
+1083,Arabica,China,7.25,7.08,7.25,7.17,10
+1084,Arabica,Taiwan,7.25,7.25,7.17,7.25,10
+1085,Arabica,Mexico,6.92,7.17,7.08,7.5,10
+1086,Arabica,Mexico,7.42,7.08,7.08,7.33,10
+1087,Arabica,Burundi,7.08,7.25,7.17,7.33,10
+1088,Arabica,"Tanzania, United Republic Of",7.25,7.17,7,7.25,10
+1089,Arabica,"Tanzania, United Republic Of",7.25,7.17,7.25,7.25,10
+1090,Arabica,Taiwan,7.25,7.25,7.08,7.25,10
+1091,Arabica,Guatemala,7.33,7.33,6.83,7.5,10
+1092,Arabica,Mexico,7.25,7.08,7.08,7.33,10
+1093,Arabica,United States (Hawaii),7.17,7.5,6.92,7.33,10
+1094,Arabica,Ethiopia,7.25,7.25,7.25,7.33,10
+1095,Arabica,Brazil,7.17,7.33,7.42,7.08,10
+1096,Arabica,Honduras,7.25,7.25,7,7,10
+1097,Arabica,Mexico,7.25,7.17,7,7.33,10
+1098,Arabica,Myanmar,8,7.08,7,7.33,10
+1099,Arabica,Myanmar,7.42,7,7.08,7,10
+1100,Arabica,Nicaragua,7.08,6.92,7,7.25,10
+1101,Arabica,United States (Hawaii),7.5,7.08,7.67,7.67,9.33
+1102,Arabica,Colombia,7.42,8,7.83,7.75,8.67
+1103,Arabica,Taiwan,7.08,7.25,7.25,7.17,7
+1104,Arabica,Guatemala,7,7.17,7.33,7.33,10
+1105,Arabica,Mexico,7.58,7.33,7.17,7.25,10
+1106,Arabica,Vietnam,7.42,7.25,7.25,7.58,10
+1107,Arabica,Nicaragua,7.17,7.08,7.08,7.33,10
+1108,Arabica,Honduras,7.25,7.25,7,7.17,10
+1109,Arabica,Guatemala,7.33,7.33,7,7.17,10
+1110,Arabica,Mexico,7.33,7.08,6.92,7.42,10
+1111,Arabica,Mexico,7.58,7.42,7.33,7.5,10
+1112,Arabica,Mexico,7.33,7.33,7.17,7.08,10
+1113,Arabica,Guatemala,7.33,7.33,7,7.33,10
+1114,Arabica,United States (Hawaii),7.58,7.5,7.33,7.33,9.33
+1115,Arabica,Brazil,7.17,7.17,7,7.17,10
+1116,Arabica,Taiwan,7.25,7.25,7.17,7,7
+1117,Arabica,Nicaragua,7.25,7.17,6.92,7.25,10
+1118,Arabica,Taiwan,7.08,7,10,10,0
+1119,Arabica,Taiwan,7.25,7,7.25,7.08,80.08
+1120,Arabica,Taiwan,7.25,7.08,7.17,7.08,80.08
+1121,Arabica,Mexico,7.33,7.17,7.25,7.08,10
+1122,Arabica,Mexico,7.25,7.08,7,7.17,10
+1123,Arabica,Nicaragua,7.33,7.08,6.92,7.08,10
+1124,Arabica,Myanmar,7.17,7.33,7,7.42,10
+1125,Arabica,Mexico,7.58,7.75,7.42,7.5,10
+1126,Arabica,Taiwan,7.25,7,7.25,7,80
+1127,Arabica,Thailand,7.33,6.67,7.08,7.42,10
+1128,Arabica,Mexico,7.25,7.25,7.08,7.17,10
+1129,Arabica,Mexico,7.08,7.33,7,7.33,10
+1130,Arabica,Ethiopia,7.42,7.42,7.5,7.92,8.67
+1131,Arabica,Colombia,7.83,7.67,7.58,7.75,10
+1132,Arabica,United States (Hawaii),7.5,7,7,6.92,10
+1133,Arabica,Mexico,7.33,7.08,7.08,7.33,10
+1134,Arabica,Mexico,7.17,7.17,6.92,7.25,10
+1135,Arabica,Mexico,7.5,7.17,7,7.17,10
+1136,Arabica,Mexico,7.17,7.08,7.08,7.08,10
+1137,Arabica,Mexico,7.33,7.25,7,7.42,10
+1138,Arabica,Mexico,7.17,7.33,7.08,7.58,10
+1139,Arabica,United States (Hawaii),7.5,7.42,7.58,7.42,10
+1140,Arabica,Kenya,7,7.08,7,7.17,10
+1141,Arabica,Guatemala,7.33,7.25,6.92,7.33,10
+1142,Arabica,Nicaragua,6.83,7.17,7.17,6.92,10
+1143,Arabica,Mexico,7.17,7.08,7,7.25,10
+1144,Arabica,United States (Hawaii),7.58,7.08,6.83,7.17,10
+1145,Arabica,Guatemala,7.5,7.42,7.25,7.58,9.33
+1146,Arabica,Taiwan,7.33,7.17,7.33,7.67,7.33
+1147,Arabica,Taiwan,7.25,7,7.17,7.17,79.75
+1148,Arabica,Thailand,7.25,7.08,6.92,7.5,10
+1149,Arabica,Peru,7,7.08,7,7.25,10
+1150,Arabica,Costa Rica,7.58,7.5,7.67,7.75,10
+1151,Arabica,Mexico,7.58,7.08,7,7,10
+1152,Arabica,Mexico,7.58,7.08,6.92,7.58,10
+1153,Arabica,Mexico,7.25,7.08,7,7.17,10
+1154,Arabica,Mexico,7.25,7.17,7.17,7.08,10
+1155,Arabica,Mexico,7.33,7.25,7,7.08,10
+1156,Arabica,Guatemala,7.58,7.33,7.5,7.33,9.33
+1157,Arabica,Mexico,7.25,6.83,6.92,7.08,10
+1158,Arabica,Guatemala,7.42,7.42,7.25,7.58,9.33
+1159,Arabica,El Salvador,7.25,7.08,7,6.83,10
+1160,Arabica,Thailand,6.92,7.17,6.83,7.42,10
+1161,Arabica,Guatemala,7.5,7,6.83,7.08,10
+1162,Arabica,Mexico,7.42,7.25,6.83,7.58,10
+1163,Arabica,Mexico,7.33,7.17,7,6.75,10
+1164,Arabica,Mexico,6.92,7.17,7.17,7.17,10
+1165,Arabica,Thailand,7.17,7.17,7,7,10
+1166,Arabica,Mexico,7.08,7,6.92,7.33,10
+1167,Arabica,Mexico,7.25,6.92,6.92,7.33,10
+1168,Arabica,Colombia,7.25,7.17,7,6.75,10
+1169,Arabica,Guatemala,7.08,7,6.83,7.33,10
+1170,Arabica,Nicaragua,6.92,6.92,7,7.42,10
+1171,Arabica,Taiwan,7.42,7,10,10,0
+1172,Arabica,Colombia,7.83,7.5,7.42,7.42,10
+1173,Arabica,Mexico,7.25,7.08,6.92,7.25,10
+1174,Arabica,Mexico,7.25,7.33,7,7.25,10
+1175,Arabica,Guatemala,7.08,7.33,7.25,7.58,9.33
+1176,Arabica,Guatemala,7.25,7.33,6.83,7,10
+1177,Arabica,Mexico,7,6.83,6.83,7.42,10
+1178,Arabica,Cote d?Ivoire,7.42,7.25,6.83,7,10
+1179,Arabica,Colombia,7.42,7.25,6.75,7.25,10
+1180,Arabica,Mexico,7,7,6.83,7.33,10
+1181,Arabica,Mexico,7.42,7.17,7.08,7.17,10
+1182,Arabica,Guatemala,7.17,6.5,6.33,7.25,10
+1183,Arabica,Taiwan,7.08,6.83,6.83,7.25,10
+1184,Arabica,Mexico,7,7,6.92,7.17,10
+1185,Arabica,Guatemala,7.33,7.42,7.33,7.42,9.33
+1186,Arabica,Honduras,7.58,7,6.75,6.92,10
+1187,Arabica,Guatemala,7.08,7,6.92,7.42,10
+1188,Arabica,Guatemala,7.25,7.17,6.75,7.25,10
+1189,Arabica,Costa Rica,7.17,7.42,7.5,8,6.67
+1190,Arabica,Mexico,7.25,7.08,6.92,7.08,10
+1191,Arabica,Mexico,7.17,6.92,6.92,7.08,10
+1192,Arabica,Mexico,6.75,6.75,6.83,7.25,10
+1193,Arabica,Guatemala,7.58,7.67,7.42,7.42,8.67
+1194,Arabica,United States (Puerto Rico),7.42,7.08,6.75,7.33,10
+1195,Arabica,Mexico,7.33,7,6.92,7.25,10
+1196,Arabica,Mexico,7.25,7.08,6.75,7.33,10
+1197,Arabica,Mexico,7.17,7.25,7.25,7.17,10
+1198,Arabica,,6.75,6.75,6.42,6.83,10
+1199,Arabica,Guatemala,7.33,7.17,6.58,7.42,10
+1200,Arabica,Honduras,7,7,7,7,10
+1201,Arabica,Peru,7.67,7.17,7.08,7.25,9.33
+1202,Arabica,Mexico,6.75,7.08,6.67,7.25,10
+1203,Arabica,Mexico,7.5,7.17,6.92,7.5,10
+1204,Arabica,Mexico,7.17,6.83,6.83,7.25,10
+1205,Arabica,Mexico,7.33,7,6.75,7.08,10
+1206,Arabica,Mexico,7.5,7,6.92,7.08,10
+1207,Arabica,Nicaragua,7.17,7,6.92,7,10
+1208,Arabica,United States (Hawaii),7.5,6.92,6.92,7.25,9.33
+1209,Arabica,Guatemala,7.33,7.08,6.33,7.25,10
+1210,Arabica,Mexico,7.25,6.83,6.83,7,10
+1211,Arabica,Mexico,7.25,7.33,7.17,7.25,10
+1212,Arabica,Mexico,7.67,7.17,6.83,7.33,8.67
+1213,Arabica,China,7,6.92,6.83,7.17,9.33
+1214,Arabica,Mexico,6.92,6.92,6.67,7.25,10
+1215,Arabica,Nicaragua,7.08,7,6.75,6.83,10
+1216,Arabica,Nicaragua,6.83,7.08,6.92,6.75,10
+1217,Arabica,Guatemala,7.33,7.17,6.92,7.58,10
+1218,Arabica,Taiwan,7.17,7.25,7,6.92,78.58
+1219,Arabica,Mexico,7,7,6.75,7.33,10
+1220,Arabica,Mexico,7.92,7.58,7.58,7.92,10
+1221,Arabica,United States (Hawaii),7.92,6.83,7.08,7.42,10
+1222,Arabica,Mexico,7.25,6.75,6.92,6.92,10
+1223,Arabica,Mexico,7.08,6.83,6.83,7,10
+1224,Arabica,Mexico,7.25,7.17,7,6.83,10
+1225,Arabica,Brazil,6.83,7,6.92,7.08,10
+1226,Arabica,Mexico,7.58,7.17,7,7.17,10
+1227,Arabica,United States (Hawaii),7.5,7.75,7.58,7.83,8.67
+1228,Arabica,Guatemala,7.17,6.5,6.67,7,10
+1229,Arabica,Guatemala,7.17,7.17,6.5,7.17,10
+1230,Arabica,Mexico,7.25,7.25,7,7.5,10
+1231,Arabica,Guatemala,7.17,6.08,6.17,7.25,10
+1232,Arabica,United States (Hawaii),7.5,7.5,7.33,7.58,8.67
+1233,Arabica,United States (Hawaii),7.42,7.33,7.33,7.5,9.33
+1234,Arabica,Indonesia,6.92,6.83,6.92,6.92,10
+1235,Arabica,Mexico,7.08,6.83,6.67,7.25,10
+1236,Arabica,Taiwan,7.5,7.08,7.33,7.17,10
+1237,Arabica,Honduras,6.83,7,6.67,7,10
+1238,Arabica,United States (Hawaii),7.58,7.33,7.5,7.42,9.33
+1239,Arabica,Guatemala,7.42,7.25,6.83,7.33,9.33
+1240,Arabica,China,7.33,7.17,6.92,7.08,9.33
+1241,Arabica,Guatemala,7,6.83,6.83,7.17,10
+1242,Arabica,Mexico,7.25,7.33,7,7,8
+1243,Arabica,Colombia,7.42,7.17,7,7.17,9.33
+1244,Arabica,Costa Rica,7.5,7.25,7.42,7,10
+1245,Arabica,Mexico,7.42,7.25,7,7,10
+1246,Arabica,Guatemala,7.17,6.17,6.17,7.08,10
+1247,Arabica,Nicaragua,7.42,7,7,7.17,10
+1248,Arabica,Brazil,7,6.75,6.67,6.83,10
+1249,Arabica,Guatemala,7,6.83,6.67,7.17,10
+1250,Arabica,Taiwan,7.17,6.75,6.58,7.33,10
+1251,Arabica,United States (Hawaii),7.58,7.67,7.58,7.67,6
+1252,Arabica,Mexico,7.17,6.75,6.58,6.75,10
+1253,Arabica,Guatemala,7.08,6.92,6.33,7,10
+1254,Arabica,Brazil,7.5,7.33,7.42,7.58,10
+1255,Arabica,Guatemala,7.33,7,6.83,7.17,9.33
+1256,Arabica,Mexico,7.33,7,6.67,7,10
+1257,Arabica,Haiti,6.83,6.83,6.83,6.75,10
+1258,Arabica,United States (Hawaii),7.08,6.92,6.83,6.67,10
+1259,Arabica,Mexico,7.08,7,7,7.25,10
+1260,Arabica,Peru,7.42,7.75,7.42,7.67,9.33
+1261,Arabica,India,7.67,7.33,7.17,6.67,6.67
+1262,Arabica,Mexico,6.67,6.33,6.42,6.83,10
+1263,Arabica,Guatemala,6.42,6.5,6.5,7.33,10
+1264,Arabica,Mexico,7.17,6.58,6.58,7,10
+1265,Arabica,Guatemala,7.5,7,6.83,7.5,8.67
+1266,Arabica,Guatemala,6.17,6.5,6.5,7.17,10
+1267,Arabica,United States (Hawaii),7.25,7.08,6.83,7.17,9.33
+1268,Arabica,United States (Hawaii),7.5,7.33,7.33,7.58,8
+1269,Arabica,Mexico,7.42,7,6.83,7.08,10
+1270,Arabica,Indonesia,7.33,7,6.5,6.08,9.33
+1271,Arabica,Mexico,7.08,6.83,6.83,7.17,10
+1272,Arabica,Honduras,6.83,6.83,6.67,6.83,10
+1273,Arabica,Philippines,6.83,6.5,6.5,6.92,9.33
+1274,Arabica,Brazil,7.17,7,6.83,7.5,10
+1275,Arabica,Guatemala,7.92,7.58,7.17,7.58,8
+1276,Arabica,Guatemala,6.67,6.5,6.33,7,10
+1277,Arabica,Mexico,7.5,7.25,6.92,7,10
+1278,Arabica,Mexico,7.17,6.92,6.67,6.83,10
+1279,Arabica,Mexico,7.25,6.83,6.67,7.08,10
+1280,Arabica,Mexico,7.17,7.17,6.83,7.17,10
+1281,Arabica,Mexico,7,6.92,6.75,6.92,10
+1282,Arabica,Mexico,7.08,6.75,6.58,7,10
+1283,Arabica,Mexico,7.33,6.75,6.67,7.25,10
+1284,Arabica,Guatemala,6.75,6.5,6.17,7,10
+1285,Arabica,Guatemala,6.75,6.67,6.17,7.17,10
+1286,Arabica,Mexico,7.08,7,6.83,7.5,10
+1287,Arabica,United States (Hawaii),7.5,7.25,7,7.25,6.67
+1288,Arabica,Guatemala,6.5,6.33,6.5,7.5,8.67
+1289,Arabica,Mexico,7,6.58,6.67,6.83,10
+1290,Arabica,Mexico,6.92,6.42,6.17,7.33,10
+1291,Arabica,Mexico,7.67,7,7.17,7.58,10
+1292,Arabica,United States (Hawaii),7.17,7.17,7.17,7.58,6.67
+1293,Arabica,Brazil,7.25,6.58,6.58,7,10
+1294,Arabica,Honduras,7,7.17,6.83,7.17,8
+1295,Arabica,Mexico,7.08,7.08,6.92,7.08,8
+1296,Arabica,Colombia,8,7.33,7.75,7.33,6.67
+1297,Arabica,United States (Hawaii),6.92,6.92,6.92,7.5,9.33
+1298,Arabica,Haiti,6.92,6.75,7.08,7.17,8.67
+1299,Arabica,Costa Rica,6.33,6.5,6.33,6.83,10
+1300,Arabica,Mexico,6.92,6.92,6.92,6.92,10
+1301,Arabica,Mexico,6.5,6.67,6.42,7.17,10
+1302,Arabica,Mexico,6.92,7,6.83,6.92,10
+1303,Arabica,Brazil,7,7,6.83,7,10
+1304,Arabica,Honduras,6.67,6.5,6.17,6.67,8
+1305,Arabica,Honduras,7,6.17,6.17,6.67,8
+1306,Arabica,Honduras,7,6.33,6.17,6.5,8
+1307,Arabica,Mexico,7.08,6.83,6.25,7.42,10
+1308,Arabica,Haiti,6.75,6.58,6.42,6.67,6
+1309,Arabica,Nicaragua,7.25,6.58,6.33,6.25,6
+1310,Arabica,Guatemala,7.5,6.67,6.67,7.67,1.33
+1312,Arabica,Honduras,0,0,0,0,0
+,Species,Country.of.Origin,Aroma,Flavor,Aftertaste,Acidity,Sweetness
+1,Robusta,Uganda,7.83,8.08,7.75,7.92,8
+2,Robusta,India,8,7.75,7.92,8,8
+3,Robusta,India,7.92,7.83,7.92,8,7.83
+4,Robusta,Uganda,8,7.92,7.92,7.75,7.75
+5,Robusta,Uganda,8.33,7.83,7.83,7.75,7.58
+6,Robusta,India,8,7.92,7.67,8,7.75
+7,Robusta,India,7.67,7.75,7.83,7.83,8
+8,Robusta,India,7.67,7.75,7.83,7.67,7.92
+9,Robusta,India,7.67,7.75,7.58,7.83,7.92
+10,Robusta,Uganda,7.67,7.83,7.83,7.83,7.75
+11,Robusta,Uganda,7.58,7.92,7.75,7.83,7.67
+12,Robusta,India,7.67,7.83,7.75,7.5,7.75
+13,Robusta,India,7.58,7.58,7.67,7.58,7.5
+14,Robusta,Uganda,8,7.75,7.75,7.58,7.58
+15,Robusta,Uganda,8,7.67,7.75,7.5,7.58
+16,Robusta,India,7.75,7.75,7.67,7.67,7.58
+17,Robusta,India,7.5,7.5,7.25,7.83,7.83
+18,Robusta,Uganda,7.33,7.58,7.5,7.75,7.75
+19,Robusta,Uganda,7.83,7.58,7.33,7.67,7.75
+20,Robusta,Uganda,7.75,7.42,7.33,7.58,7.67
+21,Robusta,India,7.67,7.67,7.5,7.33,7.42
+22,Robusta,India,7.58,7.42,7.42,7.83,7.42
+23,Robusta,United States,7.92,7.5,7.42,7.42,7.58
+24,Robusta,Ecuador,7.75,7.58,7.33,7.58,7.75
+25,Robusta,Ecuador,7.5,7.67,7.75,7.75,8.42
+26,Robusta,United States,7.33,7.33,7.17,7.42,7.42
+27,Robusta,India,7.42,6.83,6.75,7.17,7.08
+28,Robusta,Vietnam,6.75,6.67,6.5,6.83,6.67
