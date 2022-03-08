@@ -35,13 +35,17 @@ def post():
         
         coffee_error_ls = abs(norm_user_coffee_val - x_ls)
         coffee_error_sum = sum(coffee_error_ls)
+        print(coffee_error_ls)
         add_ls = [Species,Country,coffee_error_sum]
         res_df.loc[row] = add_ls
     sort_res_df = res_df.sort_values('error')
-    
-    print(sort_res_df["error"])
-    return render_template("result.html", res = sort_res_df["Country"])
+    # print(res_df)
+    return render_template("result.html", beens = zip(sort_res_df["Species"],sort_res_df["Country"]))
 
+#推薦結果から元に戻る処理
+@app.route("/back",methods = ["POST"])
+def back():
+    return render_template("index.html")
 
 #おまじない
 if __name__ == "__main__":
