@@ -25,7 +25,7 @@ def post():
     # ユーザが選んだコーヒー変数を正規化
     norm_user_coffee_val = np.array(zscore(user_coffee_val))
     
-    data = pd.read_csv("app/static/data/norm_data.csv",index_col=0)
+    data = pd.read_csv("app/static/data/norm_data_jp.csv",index_col=0)
     
     res_df = pd.DataFrame(columns=["Species","Country","error"])
     for row in data.index:
