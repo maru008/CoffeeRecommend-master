@@ -1,14 +1,21 @@
 h1 {
-    font-size: 32px;
-    color:aliceblue;
-    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align:center;
+    color:rgb(8, 7, 0);
+    font-weight: 400;
+    font-family:sans-serif;
 }
 
 .input-container {
-    background-color: #5c3d15;
     display: flex;
     flex-direction: column;
     padding: 32px 0;
+    border-color: #5c3d15;
+    border-style:inset;
+    border-top-left-radius: 2em; 
+    border-top-right-radius: 2em; 
+    border-bottom-right-radius: 2em; 
+    border-bottom-left-radius: 2em;
     
 }
 
