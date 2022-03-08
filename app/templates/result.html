@@ -2,8 +2,16 @@
 <head>
     <meta charset="UTF-8">
     <title>コーヒー豆の推薦</title>
+    <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css">
 </head>
   
+
+<header>
+
+
+
+</header>
+
 <body>
  <form action = "/back", method="POST">
     <input type="submit" value="最初のページへ">
@@ -16,9 +24,28 @@
 
 <h1>あなたに合うコーヒー豆</h1>
 
-{% for s,c in beens %}
-<p>{{s}}  |  {{c}}</p>
-{% endfor %}
+
+
+<div class="container">
+    {% for species,country in beens %}
+        <div class="row justify-content-center">
+            <div class="col-4">
+                <p class="border rounded-pill p-3">{{species}}</p>
+            </div>
+            <div class="col-4">
+                <p class="border rounded-pill p-3">{{country}}</p>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="../static/js/bootstrap.min.js"></script>
 
 </body>
 </html>
