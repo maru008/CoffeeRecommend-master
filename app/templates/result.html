@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>コーヒー豆の推薦</title>
+</head>
+  
+<body>
+    <input type="botton" value="最初のページへ" onclick="history_back()">
+
+
+<h1>あなたに合うコーヒー豆</h1>
+
+{% for been in res %}
+<p>{{been}}</p>
+{% endfor %}
+
+</body>
+</html>

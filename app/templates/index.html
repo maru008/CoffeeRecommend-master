@@ -3,7 +3,10 @@
 <head>
     <meta charset="utf-8">
     <title>コーヒー豆推薦</title>
+    <script src = "../static/main.js"></script>
 </head>
+
+
 <body>
 <h2>My favorite coffee</h2>
 
@@ -48,23 +51,18 @@
       <option value = 3>普通</option>
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
-    <input type="botton" value="豆を探す"onclick="nextPage()">
-  <script>
-      function nextPage(){
-          location.href="top.html"
-      }
-  </script>
-  
-</form> 
-<a href ="go_classification#index">
+    </select>
+    <input type="submit" value="豆を探す" />
+</form>
+
+<!-- <a href ="go_classification#index"> -->
 <!-- <form action="/index" method="POST">
   <input type="text" name="name" placeholder="Enter name">
   <input type="submit" value="Submit">
 </form> -->
 
-{% for been in res %}
-<p>{{been}}</p>
-{% endfor %}
+
+
 
 </body>
 </html>

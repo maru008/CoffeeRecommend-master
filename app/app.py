@@ -40,7 +40,7 @@ def post():
     sort_res_df = res_df.sort_values('error')
     
     print(sort_res_df["error"])
-    return render_template("index.html", res = sort_res_df["Country"])
+    return render_template("result.html", res = sort_res_df["Country"])
 
 
 #おまじない
