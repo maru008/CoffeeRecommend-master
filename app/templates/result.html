@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="../static/styles.css" />
     <title>コーヒー豆の推薦</title>
 </head>
   
 <body>
-    <input type="button" class="btn btn-warning" value="最初のページへ" onclick="history_back()">
-<script>
-    function history_back(){
-        location.href="index.html"
-    }
-</script>
+      <input type="button" value="最初のページへ" onclick="history_back()">
+  <script>
+      function history_back(){
+          location.href="index.html"
+      }
+  </script>
 
-<h1>あなたに合うコーヒー豆</h1>
+<div class="input-container">
+    <h1 >あなたにおすすめするコーヒー豆</h1>
+</div>
 
 {% for been in res %}
 <p>{{been}}</p>
