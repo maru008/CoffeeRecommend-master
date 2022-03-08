@@ -51,8 +51,30 @@
       <option value = 3>普通</option>
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
+    </select> 
+  <label for="fname">深み:</label>
+    <select name="Body">
+      <option value = 5>強い</option>
+      <option value = 4>少し強い</option>
+      <option value = 3>普通</option>
+      <option value = 2>少し弱い</option>
+      <option value = 1>弱い</option>
     </select>
-    <input type="submit" value="豆を探す"/>
+    <input type="submit" value="豆を探す"onclick="nextPage()"/>
+  <script>
+      function nextPage(){
+          location.href="result.html"
+      }
+  </script>
+  <h2>=======</h2>  
+  <h2>項目の説明</h2>
+  <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒アロマ：香り</abbr></p>
+  <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒フレーバ：味</abbr></p>
+  <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒後味：飲んだ後に残る味</abbr></p>
+  <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒酸味：コーヒー豆の酸度</abbr></p>
+  <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒甘さ：コーヒー豆の糖度</abbr></p>
+  <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒深み：コーヒー豆のコクの度合い</abbr></p>
+  
 </form>
 
 <!-- <a href ="go_classification#index"> -->
