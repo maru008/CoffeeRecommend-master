@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Species,Country.of.Origin,Aroma,Flavor,Aftertaste,Acidity,Sweetness,Body
+=======
+﻿Species,Country.of.Origin,Aroma,Flavor,Aftertaste,Acidity,Sweetness,Body
+>>>>>>> 67ea7111e924e12ee5234b1ae1771db6fca11017
 Arabica,Brazil,7.553106061,7.573560606,7.440530303,7.511439394,9.949393939,7.544545455
 Arabica,Burundi,7.415,7.46,7.25,7.415,10,7.29
 Arabica,China,7.64125,7.625625,7.484375,7.578125,9.91625,7.57375
@@ -35,6 +39,12 @@ Arabica,United States (Hawaii),7.572465753,7.576438356,7.502739726,7.615479452,9
 Arabica,United States (Puerto Rico),7.6475,7.54,7.48,7.6025,9.8325,7.665
 Arabica,Vietnam,7.38625,7.375,7.1975,7.3625,9.58375,7.631428571
 Arabica,Zambia,7.67,7.08,7.42,7.33,10,7.75
+<<<<<<< HEAD
+=======
+,,,,,,,
+,,,,,,,
+,,,,,,,
+>>>>>>> 67ea7111e924e12ee5234b1ae1771db6fca11017
 Robusta,Ecuador,7.625,7.625,7.54,7.665,8.085,5.125
 Robusta,India,7.7,7.640769231,7.596923077,7.710769231,7.692307692,7.699230769
 Robusta,Uganda,7.832,7.758,7.674,7.716,7.708,7.801
