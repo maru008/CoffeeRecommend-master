@@ -8,7 +8,7 @@
 <h2>My favorite coffee</h2>
 
 <form action="/index" method="POST">
-  <label for="fname">Aroma:</label>
+  <label for="fname">アロマ:</label>
     <select name="Aroma">
         <option value = 5>強い</option>
         <option value = 4>少し強い</option>
@@ -17,7 +17,7 @@
         <option value = 1>弱い</option>
     </select>
 
-  <label for="fname">Flavor:</label>
+  <label for="fname">フレーバー:</label>
     <select name="Flavor">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
@@ -25,7 +25,7 @@
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select>
-  <label for="fname">Aftertaste:</label>
+  <label for="fname">後味:</label>
     <select name="Aftertaste" >
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
@@ -33,7 +33,7 @@
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select>
-  <label for="fname">Acidity:</label>
+  <label for="fname">酸味:</label>
     <select name="Acidity">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
@@ -41,13 +41,22 @@
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select>
-  <label for="fname">Sweetness:</label>
+  <label for="fname">甘さ:</label>
     <select name="Sweetness">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
+    </select>  
+  <label for="fname">深み:</label>
+    <select name="Body">
+      <option value = 5>強い</option>
+      <option value = 4>少し強い</option>
+      <option value = 3>普通</option>
+      <option value = 2>少し弱い</option>
+      <option value = 1>弱い</option>
+    </select>
     <input type="botton" value="豆を探す"onclick="nextPage()">
   <script>
       function nextPage(){
