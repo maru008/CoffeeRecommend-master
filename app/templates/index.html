@@ -4,75 +4,154 @@
     <meta charset="utf-8">
     <title>コーヒー豆推薦</title>
     <script src = "../static/main.js"></script>
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css" />
+    <!-- bootstrap css-->
     <link rel="stylesheet" href="../static/styles.css" />
-</head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
+    <style>
+      *{
+        font-family: 'Noto Sans JP', sans-serif;
+      }
+    </style>
+  </head>
 
 
 <body>
-<h2>My favorite coffee</h2>
-<div class="container_2">
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand">My favorite coffee</a>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
+<div class="container_t">
+  <h2>好きなコーヒー豆のタイプ</h2>
+</div>
 <form action="/index" method="POST">
-  <label for="fname">Aroma:</label>
-    <select name="Aroma">
-        <option value = 5>強い</option>
-        <option value = 4>少し強い</option>
-        <option value = 3>普通</option>
-        <option value = 2>少し弱い</option>
-        <option value = 1>弱い</option>
+<div class="container">
+  <label for="fname">アロマ:</label>
+    <select class=="Aroma" aria-label="Default select example">
+      <option value = 5>強い</option>
+      <option value = 4>少し強い</option>
+      <option value = 3>普通</option>  
+      <option value = 2>少し弱い</option>
+      <option value = 1>弱い</option>
     </select>
-  <label for="fname">Flavor:</label>
-    <select name="Flavor">
+</div>
+<div class="container">
+  <label for="fname">フレーバ:</label>
+    <select class=="Flavor" aria-label="Default select example">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select>
-  <label for="fname">Aftertaste:</label>
-    <select name="Aftertaste" >
+</div>
+<div class="container">
+
+  <label for="fname">後味:</label>
+    <select name="Aftertaste" aria-label="Default select example">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select>
-  <label for="fname">Acidity:</label>
-    <select name="Acidity">
+</div>
+<div class="container">
+  <label for="fname">酸味:</label>
+    <select name="Acidity" aria-label="Default select example">>
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select>
-  <label for="fname">Sweetness:</label>
-    <select name="Sweetness">
+</div>
+<div class="container">
+  <label for="fname">甘さ:</label>
+    <select name="sweetness" aria-label="Default select example">>
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select> 
+</div>
+<div class="container">
   <label for="fname">深み:</label>
-    <select name="Body">
+    <select name="Body" aria-label="Default select example">>
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
       <option value = 2>少し弱い</option>
       <option value = 1>弱い</option>
     </select>
+</div>
 
-　　　　<input type="submit" value="豆を探す"onclick="nextPage()"/>
-  
-  <div class="container">
-      <h3>==========</h3>  
-      <h3>項目の説明</h3>
-      <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒アロマ：香り</abbr></p>
-      <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒フレーバ：味</abbr></p>
-      <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒後味：飲んだ後に残る味</abbr></p>
-      <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒酸味：コーヒー豆の酸度</abbr></p>
-      <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒甘さ：コーヒー豆の糖度</abbr></p>
-      <p><abbt title="Hyper Text Markup Language" class="initialsm">⇒深み：コーヒー豆のコクの度合い</abbr></p>
-  </div>
+  <input type="submit" value="豆を探す"onclick="nextPage()"/>
+  <div class="container_2">
+    <div  class="container_t">
+      <h2>項目の説明</h2>
+    </div>
+    <div  class="container">
+      <table class="table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>項目</th>
+          <th>意味</th>
+          <th>English</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>アロマ</td>
+          <td>香り</td>
+          <td>Aroma</td>
+        </tr>
+        <tr>
+        <td>2</td>
+        <td>フレーバ</td>
+          <td>味</td>
+          <td>Flavor</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>後味</td>
+          <td>飲んだ後に残る味</td>
+          <td>Aftertaste</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>酸味</td>
+          <td>コーヒー豆の酸度</td>
+          <td>Acidity</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>甘さ</td>
+          <td>コーヒー豆の糖度</td>
+          <td>Sweetness</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>深み</td>
+          <td>コーヒー豆のコクの度合い</td>
+          <td>Body</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <hr>
+    <p class="mb-0">HackU2021_B2B3B4連合 </p>
+    </div>
   
 </form>
 
