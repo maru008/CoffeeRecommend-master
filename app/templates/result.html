@@ -12,13 +12,11 @@
     <h1>あなたにおすすめのコーヒー豆 </h1>
 </div>
 
-<div class="d-flex align-items-center justify-content-center" style="height:70px;">
+<div class="d-flex align-items-center justify-content-center" style="height:100px;">
     <form action = "/back", method="POST">
         <button type="submit" class="btn btn-primary">もう一度探す</button>
     </form>
 </div>
-
-
 
 <div class="container">
     {% for species,country in beens %}
@@ -32,11 +30,6 @@
         </div>
     {% endfor %}
 </div>
-
-
-
-
-
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="../static/js/bootstrap.min.js"></script>
