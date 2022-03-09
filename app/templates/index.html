@@ -19,6 +19,7 @@
         font-family: 'Noto Sans JP', sans-serif;
       }
     </style>
+    
   </head>
 
 
@@ -26,19 +27,22 @@
   <nav class="navbar navbar-dark bg-dark">
     <div class="container-fluid">
       <a class="navbar-brand">My favorite coffee</a>
+      <li><a href="#"><img src="../static/fig/coffee_Icon.ico" class="ui-li-icon"/></a> </li>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success" type="submit">Search</button>
       </form>
     </div>
   </nav>
-<div class="container_t">
-  <h2>好きなコーヒー豆のタイプ</h2>
-</div>
+
 <form action="/index" method="POST">
-<div class="container">
+<div class="container_t">
+  <div class="container">
+  
+    <h2>好きなコーヒー豆のタイプ</h2>
+    <hr>
   <label for="fname">アロマ:</label>
-    <select class=="Aroma" aria-label="Default select example">
+    <select class=="Aroma" name= "Aroma" aria-label="Default select example">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>  
@@ -48,7 +52,7 @@
 </div>
 <div class="container">
   <label for="fname">フレーバ:</label>
-    <select class=="Flavor" aria-label="Default select example">
+    <select class="Flavor" name= "Flavor" aria-label="Default select example">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
@@ -59,7 +63,7 @@
 <div class="container">
 
   <label for="fname">後味:</label>
-    <select name="Aftertaste" aria-label="Default select example">
+    <select class="Aftertaste" name="Aftertaste" aria-label="Default select example">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
@@ -69,7 +73,7 @@
 </div>
 <div class="container">
   <label for="fname">酸味:</label>
-    <select name="Acidity" aria-label="Default select example">>
+    <select class="Acidity" name="Acidity" aria-label="Default select example">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
@@ -79,7 +83,7 @@
 </div>
 <div class="container">
   <label for="fname">甘さ:</label>
-    <select name="sweetness" aria-label="Default select example">>
+    <select class="Sweetness" name="Sweetness" aria-label="Default select example">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>
@@ -89,7 +93,7 @@
 </div>
 <div class="container">
   <label for="fname">深み:</label>
-    <select name="Body" aria-label="Default select example">>
+    <select class="Body" name="Body" aria-label="Default select example">
       <option value = 5>強い</option>
       <option value = 4>少し強い</option>
       <option value = 3>普通</option>

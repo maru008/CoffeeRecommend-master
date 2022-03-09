@@ -2,25 +2,25 @@ h2 {
     font-size: 30px;
     text-align:center;
     color:rgb(247, 246, 239);
-    font-weight: 400;
+    font-weight:900;
     
 }
-th {
+label,th,P,td {
     font-size: 15px;
     text-align:center;
     color:rgb(247, 246, 239);
-    font-weight: 400;
+    font-weight: 600;
     
 }
-td {
+ option {
     font-size: 15px;
     text-align:center;
-    color:rgb(247, 246, 239);
+    color:rgb(7, 6, 0);
     font-weight: 400;
     
 }
 .container_t {
-    background-color: #424741;
+    background-color: #a59b92;
     display: flex;
     flex-direction: column;
     padding: 32px 0;
@@ -37,7 +37,7 @@ td {
     
 }
 .container {
-    background-color: #acb1ad;
+    background-color: #6e5d4b;
     display: flex;
     flex-direction: column;
     padding: 32px 0;
