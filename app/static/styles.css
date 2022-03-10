@@ -5,13 +5,30 @@ h2 {
     font-weight:900;
     
 }
-label,th,P,td {
+
+.card-text{
+    font-size: 15px;
+    text-align:center;
+    color:rgb(0, 0, 0);
+    font-weight: 400;
+    
+}
+
+P {
+    color:black
+}
+
+
+
+label,th,td {
     font-size: 15px;
     text-align:center;
     color:rgb(247, 246, 239);
     font-weight: 600;
     
 }
+
+
  option {
     font-size: 15px;
     text-align:center;
