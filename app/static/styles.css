@@ -11,16 +11,16 @@
  }
 
 h2 {
-    font-size: 30px;
+    font-size: 35px;
     text-align:center;
-    color:rgb(247, 246, 239);
+    color:rgb(15, 15, 14);
     font-weight:900;
     
 }
 label,th,td {
     font-size: 15px;
     text-align:center;
-    color:rgb(247, 246, 239);
+    color:rgb(2, 2, 2);
     font-weight: 600;
     
 }
@@ -34,12 +34,12 @@ P{
  option {
     font-size: 10px;
     text-align:center;
-    color:rgb(247, 246, 239);
+    color:rgb(12, 12, 10);
     font-weight: 400;
     
 }
 .container_t {
-    background-color: #a59b92;
+    background-color: #faf8f6;
     display: flex;
     flex-direction: column;
     padding: 32px 0;
@@ -56,7 +56,7 @@ P{
     
 }
 .container {
-    background-color: #6e5d4b;
+    background-color: #fcfbfa;
     display: flex;
     flex-direction: column;
     padding: 32px 0;
@@ -130,11 +130,6 @@ datalist {
     color: #fff;
  }
 
- img{
-    width:200px;
-    height:100px;
-    }
-
 .m-mainVisual-arrow {
     background: url(../static/image/yajirusi.png) no-repeat;
     width: 22px;
@@ -144,4 +139,9 @@ datalist {
     bottom: 60px;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.row{
+    justify-content: center;
+
 }
