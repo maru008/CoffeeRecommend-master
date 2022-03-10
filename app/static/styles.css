@@ -66,3 +66,7 @@ datalist {
 	/* disable click events */
 	pointer-events:none;  
 }
+
+.row{
+    justify-content: center;
+}
