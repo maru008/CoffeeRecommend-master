@@ -25,7 +25,6 @@
   <nav class="navbar navbar-dark bg-dark">
     <div class="container-fluid">
       <a class="navbar-brand">My favorite coffee</a>
-      <li><a href="#"><img src="../static/fig/coffee_Icon.ico" class="ui-li-icon"/></a> </li>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success" type="submit">Search</button>
@@ -36,70 +35,76 @@
 <form action="/index" method="POST">
 <div class="container_t">
   <div class="container">
-  
     <h2>好きなコーヒー豆のタイプ</h2>
     <hr>
   <label for="fname">アロマ:</label>
-    <select class=="Aroma" name= "Aroma" aria-label="Default select example">
-      <option value = 5>強い</option>
-      <option value = 4>少し強い</option>
-      <option selected value = 3>普通</option>  
-      <option value = 2>少し弱い</option>
-      <option value = 1>弱い</option>
-    </select>
-</div>
+  <input type="range"class=="Aroma" name= "Aroma" max="5" min="1" step="1" list="ticks">
+  <datalist id="ticks" class=="Aroma" name= "Aroma">
+      <option value=5>強い</option>
+      <option value=4>少し強い</option>
+      <option value=3>普通</option>
+      <option value=2>少し弱い</option>   
+      <option value=1>弱い</option>
+  </datalist>
+    
+    
+  </div>
 <div class="container">
   <label for="fname">フレーバー:</label>
-    <select class="Flavor" name= "Flavor" aria-label="Default select example">
-      <option value = 5>強い</option>
-      <option value = 4>少し強い</option>
-      <option selected value = 3>普通</option>
-      <option value = 2>少し弱い</option>
-      <option value = 1>弱い</option>
-    </select>
+  <input type="range"class=="Flavor" name= "Flavor" max="5" min="1" step="1" list="ticks">
+  <datalist id="ticks" class=="Flavor" name= "Flavor">
+      <option value=5>強い</option>
+      <option value=4>少し強い</option>
+      <option value=3>普通</option>
+      <option value=2>少し弱い</option>   
+      <option value=1>弱い</option>
+  </datalist>
 </div>
 <div class="container">
-
   <label for="fname">後味:</label>
-    <select class="Aftertaste" name="Aftertaste" aria-label="Default select example">
-      <option value = 5>強い</option>
-      <option value = 4>少し強い</option>
-      <option selected value = 3>普通</option>
-      <option value = 2>少し弱い</option>
-      <option value = 1>弱い</option>
-    </select>
+  <input type="range"class=="Aftertaste" name= "Aftertaste" max="5" min="1" step="1" list="ticks">
+  <datalist id="ticks" class=="Aftertaste" name= "Aftertaste">
+      <option value=5>強い</option>
+      <option value=4>少し強い</option>
+      <option value=3>普通</option>
+      <option value=2>少し弱い</option>   
+      <option value=1>弱い</option>
+  </datalist>
 </div>
 <div class="container">
   <label for="fname">酸味:</label>
-    <select class="Acidity" name="Acidity" aria-label="Default select example">
-      <option value = 5>強い</option>
-      <option value = 4>少し強い</option>
-      <option selected value = 3>普通</option>
-      <option value = 2>少し弱い</option>
-      <option value = 1>弱い</option>
-    </select>
+  <input type="range"class=="Acidity" name= "Acidity" max="5" min="1" step="1" list="ticks">
+  <datalist id="ticks" class=="Acidity" name= "Acidity">
+      <option value=5>強い</option>
+      <option value=4>少し強い</option>
+      <option value=3>普通</option>
+      <option value=2>少し弱い</option>   
+      <option value=1>弱い</option>
+  </datalist>
 </div>
 <div class="container">
   <label for="fname">甘さ:</label>
-    <select class="Sweetness" name="Sweetness" aria-label="Default select example">
-      <option value = 5>強い</option>
-      <option value = 4>少し強い</option>
-      <option selected value = 3>普通</option>
-      <option value = 2>少し弱い</option>
-      <option value = 1>弱い</option>
-    </select> 
+  <input type="range"class=="Sweetness" name= "Sweetness" max="5" min="1" step="1" list="ticks">
+  <datalist id="ticks" class=="Sweetness" name= "Sweetness">
+      <option value=5>強い</option>
+      <option value=4>少し強い</option>
+      <option value=3>普通</option>
+      <option value=2>少し弱い</option>   
+      <option value=1>弱い</option>
+  </datalist>
 </div>
 <div class="container">
   <label for="fname">深み:</label>
-    <select class="Body" name="Body" aria-label="Default select example">
-      <option value = 5>強い</option>
-      <option value = 4>少し強い</option>
-      <option selected value = 3>普通</option>
-      <option value = 2>少し弱い</option>
-      <option value = 1>弱い</option>
-    </select>
+  <input type="range"class=="Body" name= "Body" max="5" min="1" step="1" list="ticks">
+  <datalist id="ticks" class=="Body" name= "Body">
+      <option value=5>強い</option>
+      <option value=4>少し強い</option>
+      <option value=3>普通</option>
+      <option value=2>少し弱い</option>   
+      <option value=1>弱い</option>
+  </datalist>
 </div>
-  <button type="submit" class="btn btn-primary">豆を探す</button>
+  <button type="submit" class="btn btn-secondary">豆を探す</button>
 </form>
 
   <div class="container_2">

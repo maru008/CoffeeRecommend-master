@@ -13,9 +13,9 @@ label,th,P,td {
     
 }
  option {
-    font-size: 15px;
+    font-size: 10px;
     text-align:center;
-    color:rgb(7, 6, 0);
+    color:rgb(247, 246, 239);
     font-weight: 400;
     
 }
@@ -45,3 +45,17 @@ label,th,P,td {
     
 }
 
+datalist {
+	position:static;
+	display: flex;
+	justify-content: space-between;
+	height: auto;
+	bottom: 15px;
+	/* disable text selection */
+	-webkit-user-select: none; /* Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+/Edge */                
+	user-select: none; /* Standard */
+	/* disable click events */
+	pointer-events:none;  
+}
