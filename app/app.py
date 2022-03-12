@@ -20,8 +20,10 @@ def post():
     Aftertaste = float(request.form.get("Aftertaste"))
     Acidity = float(request.form.get("Acidity"))
     Sweetness = float(request.form.get("Sweetness"))
+    Body = float(request.form.get("Body"))
     
-    user_coffee_val = [Aroma,Flavor,Aftertaste,Acidity,Sweetness]
+    
+    user_coffee_val = [Aroma,Flavor,Aftertaste,Acidity,Sweetness,Body]
     # ユーザが選んだコーヒー変数を正規化
     norm_user_coffee_val = np.array(zscore(user_coffee_val))
     
