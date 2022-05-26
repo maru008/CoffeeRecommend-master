@@ -10,9 +10,19 @@
 - 深み
 
 ## データセット
-以下のURLに存在するデータセットを用いた．
+以下のURLに存在するデータセットを用いました．
+このデータセットの値と，ユーザが入力するデータの誤差を最小なるようなコーヒー豆を推薦をしています．
 
 https://github.com/jldbc/coffee-quality-database
 
-#### 備考
+
+## 公開
+
+本アプリは以下のURLで試すことができます．
+
+https://git.heroku.com/coffeerecommendapp.git
+
+---
+
+### 備考
 本アプリは，Yahoo主催HackU2021 vol.4 にて開発したものです．
